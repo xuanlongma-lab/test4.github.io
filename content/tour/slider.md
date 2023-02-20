@@ -31,7 +31,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Ecological Remote Sensing Lab
+    - title: Ecological Remote Sensing Lab
       content: 'Just opened in 2019!'
       align: right
       background:
