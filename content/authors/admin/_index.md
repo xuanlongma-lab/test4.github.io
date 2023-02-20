@@ -1,25 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xuanlong Ma
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doctor of Philosophy Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Lanzhou University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ecology
+  - Remote Sensing
 
 education:
   courses:
@@ -68,6 +67,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xuanlong Ma is a ecologist and remote sensing scientist. His areas of expertise are biophysical remote sensing and terrestrial ecology. His main research interest is in integrating measurements from spaceborne sensors, field instruments, and flux towers to study and analyse vegetation phenological and functional responses to hydroclimatic impacts, with the overarching aim of assessing ecosystem resilience.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Skills and expertise: Ecology, Phenology, Savanna, R, Time Series Analysis, Remote Sensing, Climate Change, Satellite Image Processing, Ecosystem Functioning, Carbon Cycle, Statistics, Terrestrial Ecology, GDAL, Spatial Analysis, Global Change, Biogeography, Vegetation Mapping, Drought Stress, Vegetation
