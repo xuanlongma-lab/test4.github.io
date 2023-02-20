@@ -21,4 +21,6 @@ design:
 <br>
 <br>
 
-Welcome to the Ecological Remote Sensing Lab (ERSL) in Lanzhou University.
+Welcome to the <br/>
+Ecological Remote Sensing Lab (ERSL) <br/>
+in Lanzhou University.
