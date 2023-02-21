@@ -15,10 +15,10 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: xuanlongma_lab@163.com
+  phone: 178 0379 1970
   address:
-    street: 450 Serra Mall
+    street: 222 Tianshui Road South
     city: Stanford
     region: CA
     postcode: '94305'
