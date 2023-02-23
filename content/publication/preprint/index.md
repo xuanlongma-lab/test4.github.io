@@ -1,12 +1,12 @@
 ---
-title: 'Recent advances in using Chinese Earth observation satellites for remote sensing of vegetation'
+title: ''
 authors:
-  - ZhengyangZhang
-date: 'January 2023'
-doi: '10.1016/j.isprsjprs.2022.12.006'
+  - 
+date: ''
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-12-06'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
