@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zhengyang Zhang
+title: Yuhe Zhao
 
 # Username (this should match the folder name)
 authors:
-  - Zhengyang Zhang
+  - Yuhe Zhao
 
 # Is this the primary user of the site?
 superuser: false
