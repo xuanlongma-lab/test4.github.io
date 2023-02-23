@@ -12,7 +12,7 @@ publishDate: '2022-12-06'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: ''
@@ -29,7 +29,7 @@ featured: false
 
 links:
   - name: Custom Link
-    url: http://example.org
+    url: https://www.researchgate.net/publication/366492529_Recent_advances_in_using_Chinese_Earth_observation_satellites_for_remote_sensing_of_vegetation
 url_pdf: https://www.researchgate.net/profile/Xuanlong-Ma-2/publication/366492529_Recent_advances_in_using_Chinese_Earth_observation_satellites_for_remote_sensing_of_vegetation/links/63a3f2bde3ff99050d8e56b5/Recent-advances-in-using-Chinese-Earth-observation-satellites-for-remote-sensing-of-vegetation.pdf?origin=figuresDialog_download&_rtd=e30%3D
 url_code: '#'
 url_dataset: '#'
@@ -42,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
