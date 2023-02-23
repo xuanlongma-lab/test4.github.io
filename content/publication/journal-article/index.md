@@ -1,16 +1,26 @@
 ---
-title: 'An example journal article'
+title: 'Recent advances in using Chinese Earth observation satellites for remote sensing of vegetation'
 authors:
-  - admin
-  - Robert Ford
+  - ZhengyangZhang
+  - Lei Lu
+  - Yuhe Zhao
+  - Yuanyuan Wang
+  - Dandan Wei
+  - Xiaodan Wu
+  - Xiaodan Wu
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+  - 'a'
+  - 'a'
+  - 'a'
+  - 'b,c'
+  - 'd'
+  - 'a'
+  - 'a,*'
+date: '2022-12-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-12-21T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,22 +29,23 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ''
+publication: 'Journal of Photogrammetry and Remote Sensing'
+publication_short: 'ISPRS'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Vegetation is an important component of the Earth system as it supports other terrestrial biological activities through photosynthetic production. The biophysical and biochemical parameters of vegetation retrieved from satellite observations have been extensively used in global vegetation monitoring and Earth system modeling. So far, most of the remote sensing data used for vegetation-related applications are from sensors onboard American or European satellites. From the users’ perspective, it would be beneficial to have well-calibrated science-quality Earth observation data from a diverse sources that can not only secure data continuity in case of sensor retirement or failure, but also enable multi-sensor research opportunities such as data fusion or multi-angle remote sensing. In this regard, it is worth exploring the usefulness of the Chinese Earth Observation Satellites (CEOSs) for remote sensing of vegetation. Here we reviewed the recent progress in using the CEOSs data for retrieving key vegetation parameters. We focused on the uncertainty and limitation in using the CEOSs by critically examining the available studies conducted on different vegetation types. We also made recommendations on research opportunities in combining CEOSs data with the existing data from other space agencies. The hope is to offer the community an up-to-date overview of what could be useful to their specific applications by leveraging the orbiting and the planned CEOSs sensors. In addition, critical evaluations from the community are expected to feed back and lead to improved CEOSs data in the future.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-  - Source Themes
+  - Remote sensing of vegetation, Earth system dynamics, Global change, Multi-sensor fusion, Data continuity
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.researchgate.net/profile/Xuanlong-Ma-2/publication/366492529_Recent_advances_in_using_Chinese_Earth_observation_satellites_for_remote_sensing_of_vegetation/links/63a3f2bde3ff99050d8e56b5/Recent-advances-in-using-Chinese-Earth-observation-satellites-for-remote-sensing-of-vegetation.pdf?origin=figuresDialog_download&_rtd=e30%3D
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
