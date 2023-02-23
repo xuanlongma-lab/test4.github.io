@@ -1,13 +1,16 @@
 ---
-title: 'An example conference paper'
+title: 'Monitoring Savanna Vegetation Phenology Using Advanced Himawari Imager'
 authors:
   - admin
-  - Robert Ford
-date: '2013-07-01T00:00:00Z'
+  - Ngoc Nguyen Tran
+  - Song Leng
+  - Qiaoyun Xie
+  - Alfredo Huete
+date: 'July 2021'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: 'July 2021'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +19,24 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: IEEE International Geoscience and Remote Sensing Symposium
+publication_short: IGARSS
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Vegetation phenology represents a key attribute of an ecosystem and plays an important role in regulating terrestrial carbon and water cycles. Here we used observations from the Advanced Himawari Imager (AHI) onboard the new generation Japanese geostationary (GEO) satellite Himawari-8. The objective was to assess the potentials of retrieving savanna phenology from H8/AHI vegetation index time series along a 1100 km ecological rainfall gradient, known as the North Australian Tropical Transect (NATT). Key phenology transition dates (start, peak, end, and length of season) were extracted from H8/AHI Enhanced Vegetation Index (EVI) time series and then compared to those extracted from MODIS EVI. Results showed that H8/AHI with its higher temporal resolution offers several advantages in monitoring savanna vegetation dynamics than MODIS. The denser EVI time series from H8/AHI not only avoids the artefacts caused by data interpolation but also enabled a more certain characterization of seasonal vegetation growth patterns than MODIS. The short lived, rainfall pulse-driven vegetation cycles in dry savannas were also better detected using H8/AHI.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: 
 tags:
-  - Source Themes
+  - tropical savannas
+  - Himawari-8 
+  - geostationary
+  - vegetation phenology
 featured: true
 
 links:
   - name: Custom Link
     url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://www.researchgate.net/profile/Xuanlong-Ma-2/publication/355244781_Monitoring_Savanna_Vegetation_Phenology_Using_Advanced_Himawari_Imager/links/6171696b750da711ac64206d/Monitoring-Savanna-Vegetation-Phenology-Using-Advanced-Himawari-Imager.pdf?origin=publicationDetail&_sg%5B0%5D=nL9N9yPA1eY7aRIOeGPVv5e8C3IRuUABIce4z5XgclH9_nRSFhsFJ8EDIkdmN0-YHdzgyje4v6BQb5Wpv58ZHA.zWLYM6S5fY4UYzMXIGKldTMh-tlgmeQhkCELulwpR8lVZhv9cNqIzaEQrBu7rjr5MvrL0fllkiaM4pBDzEz6QQ&_sg%5B1%5D=x-G3XgSG9SPeOkMLKmALsaL7Rx9C28R8yJlTlpEj3mTPEQLRMICIJL-lZMmEBdSC3OXa7mC3kg_Zq6ZGRk3O4eX_L7zXjIETWkP5psS1qTdB.zWLYM6S5fY4UYzMXIGKldTMh-tlgmeQhkCELulwpR8lVZhv9cNqIzaEQrBu7rjr5MvrL0fllkiaM4pBDzEz6QQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -43,7 +48,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
