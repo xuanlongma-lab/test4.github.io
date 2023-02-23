@@ -25,7 +25,7 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '36.0570'
+    latitude: '36.0590'
     longitude: '103.8252'
   office: 223 Qilian Hall
   office_hours:
