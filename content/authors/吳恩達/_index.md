@@ -1,29 +1,29 @@
 ---
 # Display name
-title: 吳恩達
+title: Zhengyang Zhang
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Zhengyang Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: postgraduate student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Lanzhou University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatial Analysis
+  - Satellite Image Analysis
+  - Mapping
 
 education:
   courses:
