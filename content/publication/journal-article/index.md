@@ -7,7 +7,7 @@ authors:
   - Yuanyuan Wang
   - Dandan Wei
   - Xiaodan Wu
-  - Xiaodan Wu
+  - Xuanlong Ma
 author_notes:
   - 'a'
   - 'a'
