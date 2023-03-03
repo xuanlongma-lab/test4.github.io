@@ -45,7 +45,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/profile/Xuanlong-Ma-2/publication/366492529_Recent_advances_in_using_Chinese_Earth_observation_satellites_for_remote_sensing_of_vegetation/links/63a3f2bde3ff99050d8e56b5/Recent-advances-in-using-Chinese-Earth-observation-satellites-for-remote-sensing-of-vegetation.pdf?origin=figuresDialog_download&_rtd=e30%3D
+url_pdf: https://reader.elsevier.com/reader/sd/pii/S0924271622003215?token=CD42F3A2080D81ABCB243DCC434FA4599597055125786FEA9CD883335E37AA9552ADA2EA91360AA15084C9369FECEB57&originRegion=us-east-1&originCreation=20230303022007
 url_code: ''
 url_dataset: ''
 url_poster: ''
