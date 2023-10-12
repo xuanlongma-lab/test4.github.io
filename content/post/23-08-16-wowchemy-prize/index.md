@@ -13,4 +13,4 @@ As a member of the Expert Committee on Ecological Remote Sensing of the Chinese 
 
 Next, the research group will continue to participate in various domestic and international academic exchange activities.
 
-Conference news links:https://mp.weixin.qq.com/s/4VXiADKr1vxrKBpTEyWPiQ
+Conference news links:'https://mp.weixin.qq.com/s/4VXiADKr1vxrKBpTEyWPiQ'
