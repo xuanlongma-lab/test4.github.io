@@ -1,8 +1,8 @@
 ---
-title: Remote sensing of vegetation and ecology 
+title: The First China Ecosystem Remote Sensing Conference 
 
-project: Remote sensing of vegetation and ecology
-#event_url: https://example.org
+event: The First China Ecosystem Remote Sensing Conference
+event_url: https://mp.weixin.qq.com/s/4VXiADKr1vxrKBpTEyWPiQ
 
 location: Wowchemy HQ
 address:
