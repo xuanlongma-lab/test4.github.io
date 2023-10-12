@@ -1,5 +1,5 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: The research group participated in the first China Ecosystem Remote Sensing Conference
 date: 2020-12-02
 image:
   focal_point: 'top'
