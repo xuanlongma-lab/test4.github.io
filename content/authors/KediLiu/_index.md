@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yuhe Zhao
+title: Kedi Liu
 
 # Username (this should match the folder name)
 authors:
-  - Yuhe Zhao
+  - Kedi Liu
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,10 +18,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
+#bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
 
 interests:
-  - hiking
+  - volleyball
   - badminton
 
 education:
@@ -69,8 +69,8 @@ user_groups:
   - Grad Students
 ---
 
-**Research Topic:** Biodiversity; SDG 15.1.2; Vegetation phenology; unmanned aerial vehicle (UAV)
+**Research Topic:** Ecosystem classification
 
-**Interests:** hiking; badminton
+**Interests:** volleyball
 
-**Email:** zhaoyuhe21@lzu.edu.cn
+**Email:** kediliu22@lzu.edu.cn
