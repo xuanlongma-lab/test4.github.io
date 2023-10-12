@@ -54,8 +54,6 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
-
 As a member of the Expert Committee on Ecological Remote Sensing of the Chinese Ecological Society (referred to as the "Special Committee on Ecological Remote Sensing") and the organizing committee of this conference, Mr. Ma led relevant members of the research group to participate in depth. Mr. Ma, as the chairman of the session, presided over the theme of "Ecological Parameters and Ecosystem functions" (the first session of the conference). At the same time, the research team has done the "Hyper-temporal Terrestrial Ecological Monitoring by Geostationary satellites: A New Research Opportunity "(Mr. Ma) and" Decoupling of rainfall and vegetation greening over the Asian endorheic basins due to irrigation intensification "(Mr. Zhang Zhengyang) oral report, And the panel report on "Fine resolution mapping of groundwater dependent ecosystems (GDEs) over the Shule River Basin" (Ms. Liang Yu), achieved a good communication effect.
 
 Next, the research group will continue to participate in various domestic and international academic exchange activities.
