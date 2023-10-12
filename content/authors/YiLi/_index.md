@@ -20,11 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
 
-interests:
-  - ping-pong
-
-Research Topic: 
-  - Analysis of global vegetation change in arid areas
+#interests:
+#  - ping-pong
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,4 +57,6 @@ user_groups:
 
 **Research Topic:** Analysis of global vegetation change in arid areas
 
-**email:** yili21@lzu.edu.cn
+**Interests:** ping-pong
+
+**Email:** yili21@lzu.edu.cn

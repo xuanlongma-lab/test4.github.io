@@ -24,7 +24,6 @@ content:
     - Alumni
 design:
   show_interests: false
-  show_Research Topic: false
   show_role: true
   show_social: true
 ---
