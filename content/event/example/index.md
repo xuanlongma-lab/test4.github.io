@@ -4,13 +4,13 @@ title: The First China Ecosystem Remote Sensing Conference
 event: The First China Ecosystem Remote Sensing Conference
 event_url: https://mp.weixin.qq.com/s/4VXiADKr1vxrKBpTEyWPiQ
 
-location: Wowchemy HQ
+location: Guangdong
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: Shenzhen
+  region: 
+  postcode: 
+  country: China
 
 summary: An example event.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
