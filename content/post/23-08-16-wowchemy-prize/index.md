@@ -1,6 +1,8 @@
 ---
 title: The research group participated in the first China Ecosystem Remote Sensing Conference
 date: 2023-08-16
+Conference news links: 生态学与遥感的思维碰撞——记第一届中国生态系统遥感学术研讨会
+Conference news links_url: https://mp.weixin.qq.com/s/4VXiADKr1vxrKBpTEyWPiQ
 ---
 
 Congratulations to undergraduate Liang Yu and graduate Zhang Zhengyang for attending the first China Ecosystem Remote Sensing Conference in Shenzhen with the support of the research group and giving the panel report and oral report respectively.
@@ -13,5 +15,5 @@ As a member of the Expert Committee on Ecological Remote Sensing of the Chinese 
 
 Next, the research group will continue to participate in various domestic and international academic exchange activities.
 
-Conference news links: 生态学与遥感的思维碰撞——记第一届中国生态系统遥感学术研讨会
-Conference news links_url:https://mp.weixin.qq.com/s/4VXiADKr1vxrKBpTEyWPiQ
+
+
