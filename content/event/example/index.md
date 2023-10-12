@@ -1,8 +1,8 @@
 ---
-title: Q
+title: Remote sensing of vegetation and ecology 
 
-event: Wowchemy Conference
-event_url: https://example.org
+project: Remote sensing of vegetation and ecology
+#event_url: https://example.org
 
 location: Wowchemy HQ
 address:
