@@ -58,5 +58,5 @@ user_groups:
   - Grad Students
 ---
 
-**Research Topic:**Analysis of global vegetation change in arid areas
-**email:**'yili21@lzu.edu.cn'
+**Research Topic:** Analysis of global vegetation change in arid areas
+**email:** yili21@lzu.edu.cn
