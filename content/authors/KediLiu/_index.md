@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kedi Liu
+title: Yuhe Zhao
 
 # Username (this should match the folder name)
 authors:
-  - Kedi Liu
+  - Yuhe Zhao
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,24 +18,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
+Research Topic: Biodiversity; SDG 15.1.2; Vegetation phenology; unmanned aerial vehicle (UAV).
 
-interests:
-  - Spatial Analysis
-  - Satellite Image Analysis
-  - Mapping
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+Hobby:
+  - hiking
+  - badminton
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,7 +48,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zhaoyuhe21@lzu.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
