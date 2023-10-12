@@ -23,6 +23,9 @@ bio: My research interests include Satellite Image Processing, mobile computing 
 interests:
   - ping-pong
 
+Research Topic: 
+  - Analysis of global vegetation change in arid areas
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
