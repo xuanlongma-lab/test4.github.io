@@ -59,4 +59,5 @@ user_groups:
 ---
 
 **Research Topic:** Analysis of global vegetation change in arid areas
+
 **email:** yili21@lzu.edu.cn
