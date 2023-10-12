@@ -17,7 +17,7 @@ organizations:
   - name: Lanzhou University
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
+# Short Research Topic (displayed in user profile at end of posts)
 Research Topic: Biodiversity; SDG 15.1.2; Vegetation phenology; unmanned aerial vehicle (UAV).
 
 Hobby:
