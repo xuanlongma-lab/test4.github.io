@@ -17,17 +17,25 @@ organizations:
   - name: Lanzhou University
     url: ''
 
-# Short Research Topic (displayed in user profile at end of posts)
-
-Research Topic:
-  - Biodiversity
-  - SDG 15.1.2
-  - Vegetation phenology
-  - unmanned aerial vehicle (UAV)
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
 
 interests:
-  - hiking
-  - badminton
+  - Spatial Analysis
+  - Satellite Image Analysis
+  - Mapping
+
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zhaoyuhe21@lzu.edu.cn'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
