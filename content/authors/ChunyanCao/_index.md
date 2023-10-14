@@ -43,6 +43,6 @@ user_groups:
 
 **Research Topic:** Estimation of global scale GPP based on eLUE model
 
-**Interests:** tourism; badminton
+**Hobby:** tourism; badminton
 
 **Email:** caochy2023@lzu.edu.cn

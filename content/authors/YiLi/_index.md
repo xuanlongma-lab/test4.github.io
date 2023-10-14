@@ -45,6 +45,6 @@ user_groups:
 
 **Research Topic:** Analysis of global vegetation change in arid areas
 
-**Interests:** ping-pong
+**Hobby:** ping-pong
 
 **Email:** yili21@lzu.edu.cn

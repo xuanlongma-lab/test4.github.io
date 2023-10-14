@@ -43,6 +43,6 @@ user_groups:
 
 **Research Topic:** Geostationary satellite data processing
 
-**Interests:** Badminton; swimming
+**Hobby:** Badminton; swimming
 
 **Email:** 20202703107@stu.lzjtu.edu.cn

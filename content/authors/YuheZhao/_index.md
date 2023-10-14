@@ -41,6 +41,6 @@ user_groups:
 
 **Research Topic:** Biodiversity; SDG 15.1.2; Vegetation phenology; unmanned aerial vehicle (UAV)
 
-**Interests:** hiking; badminton
+**Hobby:** hiking; badminton
 
 **Email:** zhaoyuhe21@lzu.edu.cn

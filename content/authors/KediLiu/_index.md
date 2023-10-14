@@ -71,6 +71,6 @@ user_groups:
 
 **Research Topic:** Ecosystem classification
 
-**Interests:** volleyball
+**Hobby:** volleyball
 
 **Email:** kediliu22@lzu.edu.cn
