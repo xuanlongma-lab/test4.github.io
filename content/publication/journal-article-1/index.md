@@ -9,13 +9,13 @@ authors:
   - Zhaoying Zhang
   - Yuhan Chen
 author_notes:
-  - 'a'
-  - 'b'
-  - 'c'
-  - 'd'
-  - 'e'
-  - 'f'
-  - 'g'
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
 date: '2023-05-29T00:00:00Z'
 doi: ''
 
