@@ -1,44 +1,30 @@
 ---
-title: 'An ecologically-constrained deep learning model for tropical leaf phenology monitoring using PlanetScope satellites'
+title: 'Monitoring nature's calendar from space:Emerging topics in land surface phenology and associated opportunities for science applications'
 authors:
-  - Jing Wang
-  - Guangqin Song
-  - Michael Liddell
-  - Patricia Morellato
-  - Calvin K.F. Lee
-  - Dedi Yang
-  - Bruna Alberton
-  - Matteo Detto
-  - Xuanlong Ma 
-  - Yingyi Zhao
-  - Henry C.H. Yeung
-  - Hongsheng Zhang
-  - Michael Ng
-  - Bruce W. Nelson
-  - Alfredo Huete
-  - Jin Wu
+  - Xuanlong Ma
+  - Xiaolin Zhu
+  - Qiaoyun Xie
+  - Jiaxin Jin
+  - Yuke Zhou
+  - Yunpeng Luo
+  - Yuxia Liu
+  - Jiaqi Tian
+  - Yuhe Zhao
 author_notes:
-  - 'a,b,1'
-  - 'b,1'
-  - 'c'
-  - 'd'
-  - 'b'
-  - 'e'
-  - 'd,f'
-  - 'g'
-  - 'h,i,j'
-  - 'b'
-  - 'b'
-  - 'k,l'
-  - 'm'
-  - 'n'
-  - 'o'
-  - 'b,l,*'
-date: '2023-05-01T00:00:00Z'
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6,7'
+  - '3,8'
+  - '2,9'
+  - '1'
+date: '2022-09-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-05-01T00:00:00Z'
+publishDate: '2022-09-11T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -47,20 +33,15 @@ publishDate: '2023-05-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Remote Sensing of Environment'
-publication_short: 'Remote Sens Environ'
+publication: 'Global Change Biology'
+publication_short: 'GCB'
 
-abstract: In tropical forests, leaf phenology signals leaf-on/off status and exhibits considerable variability across scales from a single tree-crown to the entire forest ecosystem. Such phenology signals importantly regulate large-scale biogeochemical cycles and regional climate. PlanetScope CubeSats data with a 3-m resolution and near-daily global coverage provide an unprecedented opportunity to monitor both fine- and ecosystem-scale phenology variability along large environmental gradients. However, a scalable method that accurately characterizes leaf phenology from PlanetScope with biophysically meaningful metrics remains lacking. We developed an index-guided, ecologically constrained autoencoder (IG-ECAE) method to automatically derive a deciduousness metric (percentage of upper tree canopies with leaf-off status within an image pixel) from PlanetScope. The IG-ECAE first estimated the reflectance spectra of leafy/leafless canopies based on their spectral indices characteristics, then used the derived reflectance spectra to guide an autoencoder deep learning method with additional ecological constraints to refine the reflectance spectra, and finally used linear spectral unmixing to estimate the relative abundance of leafless canopies (or deciduousness) per PlanetScope image pixel. We tested the IG-ECAE method at 16 tropical forest sites spanning multiple continents and a large precipitation gradient (1470–2819 mm year−1). Among these sites, we evaluated the PlanetScope-derived deciduousness against corresponding measures derived from WorldView-2 (n = 9 sites) and local phenocams (n = 9 sites). Our results show that PlanetScope-derived deciduousness agrees:1) with that derived from WorldView-2 at the patch level (90 m × 90 m) with r2 = 0.89 across all sites; and 2) with that derived from phenocams to quantify ecosystem-scale seasonality with r2 ranging from 0.62 to 0.96. These results demonstrate the effectiveness and scalability of IG-ECAE in characterizing the wide variability in deciduousness across scales from pixels to forest ecosystems, and from a single date to the full annual cycle, indicating the potential for using high-resolution satellites to track the large-scale phenological patterns and response of tropical forests to climate change.
+abstract: Vegetation phenology has been viewed as the nature's calendar and an integrative in-dicator of plant-climate interactions. The correct representation of vegetation phenol-ogy is important for models to accurately simulate the exchange of carbon, water, and energy between the vegetated land surface and the atmosphere. Remote sensing has advanced the monitoring of vegetation phenology by providing spatially and temporally continuous data that together with conventional ground observations offers a unique contribution to our knowledge about the environmental impact on ecosystems as well as the ecological adaptations and feedback to global climate change. Land surface phe-nology (LSP) is defined as the use of satellites to monitor seasonal dynamics in vegetated land surfaces and to estimate phenological transition dates. LSP, as an interdisciplinary subject among remote sensing, ecology, and biometeorology, has undergone rapid de-velopment over the past few decades. Recent advances in sensor technologies, as well as data fusion techniques, have enabled novel phenology retrieval algorithms that re-fine phenology details at even higher spatiotemporal resolutions, providing new insights into ecosystem dynamics. As such, here we summarize the recent advances in LSP and the associated opportunities for science applications. We focus on the remaining chal-lenges, promising techniques, and emerging topics that together we believe will truly form the very frontier of the global LSP research field.
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-  - Tropical forests
-  - Carbon cycles
-  - Environmental gradient
-  - Deciduousness
-  - Multi-scale remote sensing
-  - Machine learning
+
 
 featured: false
 
