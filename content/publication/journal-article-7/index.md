@@ -40,9 +40,6 @@ abstract: Vegetation phenology has been viewed as the nature's calendar and an i
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-
-
 featured: false
 
 # links:
