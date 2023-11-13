@@ -22,5 +22,5 @@ design:
 <br>
 
 Welcome to the <br/>
-Ecological Remote Sensing Lab (ERSL) <br/>
+Ecological Remote Sensing Lab (MaLab @LZU) <br/>
 in Lanzhou University.
