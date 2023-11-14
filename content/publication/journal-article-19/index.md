@@ -138,12 +138,12 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16141
-url_code: 'https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16141'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16141'
 url_video: ''
 
 # Featured image
