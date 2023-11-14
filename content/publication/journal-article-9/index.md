@@ -16,11 +16,11 @@ author_notes:
   - ''
   - ''
   - ''
-date: '2022-09-04T00:00:00Z'
+date: '2022-08-28T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-04T00:00:00Z'
+publishDate: '2022-08-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,27 +29,25 @@ publishDate: '2022-09-04T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Agricultural and Forest Meteorology'
-publication_short: 'Agr Forest Meteorol'
+publication: 'Ecological Indicators'
+publication_short: 'Ecol. Indic'
 
-abstract: The ecosystem-level conductance-photosynthesis models, which represent a linearly coupled relationship between canopy stomatal conductance (Gs) and CO2 assimilation, have been increasingly used for modeling transpiration (Tc). As a key parameter in these models, the slope parameter (G1) has been observed to vary considerably over the seasons in the field, but is often parametrized with a biome-specific temporally constant G1, resulting in large potential uncertainty. Here we hypothesized that G1 varies with leaf area index (LAI) phenology and soil water content (SWC) seasonality, and accurate characterization of G1 seasonality offers an avenue to improve Tc modelling. To test these hypotheses, we first investigated the seasonality of Eddy flux-derived G1 and then explored its relationship with satellite-derived LAI and field-observed SWC seasonality at 12 temperate forest FLUXNET sites across the Northern Hemisphere. Last, we cross-compared the two schemes of model parameterization of G1 for modeling Tc:(1) a constant G1 (FIX) and (2) a dynamic G1 parameterized using the selected variables (DYN). Our results show G1 displays considerable seasonal variations across all sites, with a minimum value in mid-summer. Further variance partitioning analysis demonstrates that the seasonal variations in G1 show direct linkages with LAI phenology rather than SWC seasonality likely associated with leaf aging and ontogeny development. Last, we found relative to the FIX model, the DYN model (using LAI for G1 parameterization) significantly reduced the model uncertainty in terms of RMSE by 24.6 ± 11.8% and 32.0 ± 8.7%, respectively for Gs and Tc at a daily scale. These results collectively improve our understanding of the dynamic pattern and proximate controls of G1 seasonality, and highlight the effectiveness of using remote sensing-derived LAI phenology for improved characterization of G1 seasonality that ultimately contributes to the improved process model simulations of the seasonal dynamics of Gs and Tc across temperate forest landscapes.
+abstract: Ecosystem health plays a vital role in the development of regional ecological environment. Gannan Plateau, an important water conservation area in the upper reaches of the Yellow River, is located at the northeastern margin of the Qinghai-Tibet Plateau. Due to the importance of the region, understanding the spatiotemporal patterns of the ecosystem health within this region is particularly critical. Previous studies on regional ecosystem health assessment mainly focused on single ecosystem type such as wetland, forest, and grassland, while there are relatively few studies that comprehensively assessed ecosystem health at high-spatial resolution in Gannan alpine areas. In this study, 11 counties and cities in Gannan Tibetan and Linxia Hui Autonomous Prefecture of the Gansu Province, China were used as the study area. We evaluated the ecosystem health of 154 township units from 2000 to 2020 with methods of Pressure-State-Response model (PSR) and Analytic Hierarchy Process (AHP), using a combination of satellite remote sensing data, social statistics data, meteorological data, and other geospatial data sources. The results showed that overall ecosystems in the southwestern part of the study area exhibited healthier condition than those located in the northeastern part, which is mainly due to the combination of the natural environment and the intensity of human activities in different regions. Over the past 20 years, due to the active implementation of relevant ecological protection and restoration policies by various regional governments and the improvement of the natural environment, the average ecosystem health status of Gannan Plateau has increased by 15.04 %, showing an improving trend in varying degrees or being stable, no declining trend was observed except for a small town. Our results implied that management should take different measures according to the differences of regional ecosystem health level, also pay more attention to areas where the ecosystem health status has not improved.
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-  - Stomatal conductance model
-  - Stomatal slope
-  - Leaf area index
-  - Transpiration
-  - Phenology
-  - Temperate forest
+  - Ecosystem health
+  - Pressure-state-response model
+  - Alpine region
+  - Yellow river Basin
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0168192322003446
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1470160X2200869X
 url_code: ''
 url_dataset: ''
 url_poster: ''
