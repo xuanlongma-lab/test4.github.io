@@ -46,7 +46,7 @@ featured: true
 
 links:
   - name: Custom Link
-    url: https://pure.mpg.de/rest/items/item_3431856/component/file_3431857/content
+    url: http://example.org
 url_pdf: https://pure.mpg.de/rest/items/item_3431856/component/file_3431857/content
 url_code: ''
 url_dataset: ''
