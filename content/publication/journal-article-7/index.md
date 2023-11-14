@@ -53,7 +53,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16436
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.16436
 url_code: ''
 url_dataset: ''
 url_poster: ''
