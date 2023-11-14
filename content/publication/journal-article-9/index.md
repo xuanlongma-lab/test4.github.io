@@ -1,29 +1,21 @@
 ---
-title: 'Improved modeling of canopy transpiration for temperate forests by incorporating a LAI-based dynamic parametrization scheme of stomatal slope'
+title: 'Spatiotemporal changes of ecosystem health and their driving mechanisms in alpine regions on the northeastern Tibetan Plateau'
 authors:
-  - Jiaxin Jin
-  - Tao Yan
-  - Han Wang
+  - Songbing Zou
+  - Jikun Qian
+  - Baorong Xu
+  - Zhenyu Tu
+  - Wenyong Zhang
   - Xuanlong Ma
-  - Mingzhu He
-  - Ying Wang
-  - Weifeng Wang
-  - Fengsheng Guo
-  - Yulong Cai 
-  - Qiuan Zhu
-  - Jin Wu
+  - Yu Liang
 author_notes:
-  - 'a,b'
-  - 'a'
-  - 'c'
-  - 'd'
-  - 'e'
-  - 'f'
-  - 'g'
-  - 'h'
-  - 'a'
-  - 'a'
-  - 'i,j'
+  - '1'
+  - '1'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
 date: '2022-09-04T00:00:00Z'
 doi: ''
 
