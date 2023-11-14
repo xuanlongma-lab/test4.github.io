@@ -1,28 +1,30 @@
 ---
-title: 'Ecohydrological decoupling of water storage and vegetation attributed to China’s large-scale ecological restoration programs'
+title: 'Monitoring nature s calendar from space:emerging topics in land surface phenology and associated opportunities for science applications'
 authors:
-  - Yanping Cao
-  - Zunyi Xie
-  - William Woodgate
   - Xuanlong Ma
-  - Jamie Cleverly
-  - Yingjun Pang
-  - Fen Qin
-  - Alfredo Huete 
+  - Xiaolin Zhu
+  - Qiaoyun Xie
+  - Jiaxin Jin
+  - Yuke Zhou
+  - Yunpeng Luo
+  - Yuxia Liu
+  - Jiaqi Tian
+  - Yuhe Zhao 
 author_notes:
-  - 'a,b'
-  - 'a,b,c'
-  - 'c'
-  - 'd'
-  - 'e'
-  - 'f'
-  - 'a,b'
-  - 'g'
-date: '2022-10-10T00:00:00Z'
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6,7'
+  - '3,8'
+  - '2,9'
+  - '1'
+date: '2022-9-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10-10T00:00:00Z'
+publishDate: '2022-9-11T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,27 +33,27 @@ publishDate: '2022-10-10T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Journal of Hydrology'
-publication_short: 'J Hydrol'
+publication: 'Global Change Biology'
+publication_short: 'Global Change Biol'
 
-abstract: China has implemented some of the world's most ambitious ecological restoration (ER) programs over the past two decades. These large-scale multi-billion-dollar projects have achieved widespread greening across the country. However, the impacts of different ER-driven land cover modifications on total water resources remain largely unknown, particularly over areas characterized by complex environments of coupled human and natural systems. Here we quantified ecohydrological impacts of multiple ER programs applied over various parts of China’s Yellow River Basin (YRB), with their lumped effects being partitioned into individual ones. ER-related drivers were disentangled, leading in individual attribution of inter-annual climatic variability and agricultural activity with cross-sensor satellite observations and statistical modelling. Our results showed an ecohydrological decoupling of water storage and vegetation greenness attributed to ER programs. Increases in natural land cover types (e.g. forest and grassland) were found at the expense of human intensive land use, such as farmland, with the combined changes resulting in a concurrent dramatic water storage loss of 3.70 billion tons/year from 2002 to 2021. ER was the dominant driver of water loss (>66 %) among all factors considered, commensurate with areal land-cover change and ER program cost. The entire basin was divided into two regions with opposite water trends by the ER activities with different restoration strategies. This study’s framework is applicable to substantial part of the globe like YRB and is encouraged to be applied for more wholistic ER impact evaluations.
+abstract: Vegetation phenology has been viewed as the nature's calendar and an integrative in-dicator of plant-climate interactions. The correct representation of vegetation phenol-ogy is important for models to accurately simulate the exchange of carbon, water, and energy between the vegetated land surface and the atmosphere. Remote sensing has advanced the monitoring of vegetation phenology by providing spatially and temporally continuous data that together with conventional ground observations offers a unique contribution to our knowledge about the environmental impact on ecosystems as well as the ecological adaptations and feedback to global climate change. Land surface phe-nology (LSP) is defined as the use of satellites to monitor seasonal dynamics in vegetated land surfaces and to estimate phenological transition dates. LSP, as an interdisciplinary subject among remote sensing, ecology, and biometeorology, has undergone rapid de-velopment over the past few decades. Recent advances in sensor technologies, as well as data fusion techniques, have enabled novel phenology retrieval algorithms that re-fine phenology details at even higher spatiotemporal resolutions, providing new insights into ecosystem dynamics. As such, here we summarize the recent advances in LSP and the associated opportunities for science applications. We focus on the remaining chal-lenges, promising techniques, and emerging topics that together we believe will truly form the very frontier of the global LSP research field.
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-  - Ecological restoration
-  - Total water storage
-  - Land use and land cover change
-  - GRACE
-  - Human activities
-  - SDGs
+  - big data
+  - biodiversity
+  - carbon cycle
+  - global change
+  - public health
+  - vegetation dynamics
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0022169422012215
+url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16436
 url_code: ''
 url_dataset: ''
 url_poster: ''
