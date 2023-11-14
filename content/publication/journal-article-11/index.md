@@ -1,5 +1,5 @@
 ---
-title: 'Evaluating the potential of H8/AHI geostationary observations for monitoring vegetation phenology over different ecosystem types in northern China.'
+title: 'Evaluating the potential of H8/AHI geostationary observations for monitoring vegetation phenology over different ecosystem types in northern China'
 authors:
   - Yuhe Zhao
   - Minyu Wang
