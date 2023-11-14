@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: xuanlongma_lab@163.com
+  email: xlma@lzu.edu.cn
   phone: 178 0379 1970
   address:
     street: 222 Tianshui Road South

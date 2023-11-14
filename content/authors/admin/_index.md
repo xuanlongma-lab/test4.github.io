@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Lab PI & Professor
 ---
 
 Xuanlong Ma is a ecologist and remote sensing scientist. His areas of expertise are biophysical remote sensing and terrestrial ecology. His main research interest is in integrating measurements from spaceborne sensors, field instruments, and flux towers to study and analyse vegetation phenological and functional responses to hydroclimatic impacts, with the overarching aim of assessing ecosystem resilience.
