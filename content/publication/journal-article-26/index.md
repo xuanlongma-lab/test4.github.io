@@ -37,7 +37,7 @@ abstract: Projected increases in temporal precipitation variability, including i
 summary: 
 
 tags:
-  - carbon and water coupling, , , ,
+  - carbon and water coupling
   - ecohydrology
   - ecosystem productivity
   - precipitation variability
