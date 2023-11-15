@@ -34,16 +34,16 @@ tags:
 featured: true
 
 links:
-  - name: Custom Link
-    url: http://example.org
-url_pdf: https://www.researchgate.net/profile/Xuanlong-Ma-2/publication/355244781_Monitoring_Savanna_Vegetation_Phenology_Using_Advanced_Himawari_Imager/links/6171696b750da711ac64206d/Monitoring-Savanna-Vegetation-Phenology-Using-Advanced-Himawari-Imager.pdf?origin=publicationDetail&_sg%5B0%5D=nL9N9yPA1eY7aRIOeGPVv5e8C3IRuUABIce4z5XgclH9_nRSFhsFJ8EDIkdmN0-YHdzgyje4v6BQb5Wpv58ZHA.zWLYM6S5fY4UYzMXIGKldTMh-tlgmeQhkCELulwpR8lVZhv9cNqIzaEQrBu7rjr5MvrL0fllkiaM4pBDzEz6QQ&_sg%5B1%5D=x-G3XgSG9SPeOkMLKmALsaL7Rx9C28R8yJlTlpEj3mTPEQLRMICIJL-lZMmEBdSC3OXa7mC3kg_Zq6ZGRk3O4eX_L7zXjIETWkP5psS1qTdB.zWLYM6S5fY4UYzMXIGKldTMh-tlgmeQhkCELulwpR8lVZhv9cNqIzaEQrBu7rjr5MvrL0fllkiaM4pBDzEz6QQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+  - name: Article Link
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9554251
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9554251
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -67,9 +67,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
