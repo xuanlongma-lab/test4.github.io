@@ -1,28 +1,59 @@
 ---
-title: 'Attribution of climate and human activities to vegetation change in China using machine learning techniques'
+title: 'Nutrients and water availability constrain the seasonality of vegetation activity in a Mediterranean ecosystem. Global Change Biology'
 authors:
-  - Yu Shi
-  - Ning Jin
+  - Yunpeng Luo
+  - Tarek El-Madany
   - Xuanlong Ma
-  - Bingyan Wu
-  - Qinsi He
-  - Chao Yue
-  - Qiang Yu
+  - Richard Nair
+  - Martin Jung
+  - Ulrich Weber
+  - Gianluca Filippa
+  - Solveig F. Bucher
+  - Gerardo Moreno
+  - Edoardo Cremonese
+  - Arnaud Carrara
+  - Rosario Gonzalez-Cascon
+  - Yonatan Cáceres Escudero
+  - Marta Galvagno
+  - Javier Pacheco-Labrador
+  - M. Pilar Martín
+  - Oscar Perez-Priego
+  - Markus Reichstein
+  - Andrew D. Richardson
+  - Annette Menzel
+  - Christine Römermann
+  - Mirco Migliavacca
+
 
 author_notes:
-  - 'a,b'
-  - 'c,*'
-  - 'd'
-  - 'a'
-  - 'e'
-  - 'b'
-  - 'b,e,f,**'
+  - '1'
+  - '1'
+  - '1,2'
+  - '1'
+  - '1'
+  - '1'
+  - '3'
+  - '4,5'
+  - '6'
+  - '3'
+  - '7'
+  - '8'
+  - '9'
+  - '3'
+  - '1'
+  - '10'
+  - '11'
+  - '1,5'
+  - '12,13'
+  - '14'
+  - '2,4,5'
+  - '1'
 
-date: '2020-08-10T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.agrformet.2020.108146'
+date: '2020-04-16T00:00:00Z'
+doi: 'https://doi.org/10.1111/gcb.15138'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-10T00:00:00Z'
+publishDate: '2020-04-16T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,19 +62,24 @@ publishDate: '2020-08-10T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Agricultural and Forest Meteorology'
-publication_short: 'Agr Forest Meteorol'
+publication: 'Global Change Biology'
+publication_short: 'Global Change Biol'
 
 abstract: 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-  - Climate change
-  - Human activity
-  - Climatic zone
-  - Vegetation greening
-  - Attribution analysis
+  - GPP capacity
+  - nitrogen deposition
+  - nutrient imbalance
+  - phenology
+  - random forest
+  - semi-arid
+  - structure and physiology
+  - tree–grass ecosystem
+  - water availability
+
   
 featured: false
 
