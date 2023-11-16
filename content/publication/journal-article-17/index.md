@@ -1,9 +1,9 @@
 ---
 title: 'Recent advances in using Chinese Earth observation satellites for remote sensing of vegetation'
 authors:
-  - Zhengyang Zhang
+  - ZhengyangZhang
   - Lei Lu
-  - Yuhe Zhao
+  - YuheZhao
   - Yuanyuan Wang
   - Dandan Wei
   - Xiaodan Wu

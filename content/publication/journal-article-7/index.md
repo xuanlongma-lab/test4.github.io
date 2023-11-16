@@ -9,7 +9,7 @@ authors:
   - Yunpeng Luo
   - Yuxia Liu
   - Jiaqi Tian
-  - Yuhe Zhao 
+  - YuheZhao 
 author_notes:
   - '1'
   - '2'
