@@ -3,7 +3,7 @@ title: 'Spatial, phenological, and inter-annual variations of gross primary prod
 authors:
   - Dujuan Ma
   - Xiaodan Wu
-  - Xuanlong Ma
+  - XuanlongMa
   - Jingping Wang
   - Xingwen Lin
   - Cuicui Mu

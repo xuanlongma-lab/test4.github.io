@@ -1,7 +1,7 @@
 ---
 title: 'Abrupt shifts in phenology and vegetation productivity under climate extremes'
 authors:
-  - Xuanlong Ma
+  - XuanlongMa
   - Alfredo Huete
   - Susan Moran
   - Guillermo Ponce-Campos

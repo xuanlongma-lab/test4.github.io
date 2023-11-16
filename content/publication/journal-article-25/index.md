@@ -3,7 +3,7 @@ title: 'Improving estimation of seasonal evapotranspiration in Australian tropic
 authors:
   - Wei Zhuang
   - Hao Shi
-  - Xuanlong Ma
+  - XuanlongMa
   - James Cleverly
   - Jason Beringer
   - Yan Zhang

@@ -1,7 +1,7 @@
 ---
 title: 'Monitoring plant functional diversity using the reflectance and echo from space'
 authors:
-  - Xuanlong Ma
+  - XuanlongMa
   - Mirco Migliavacca 
   - Christian Wirth
   - Friedrich J. Bohn

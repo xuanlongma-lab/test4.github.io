@@ -1,7 +1,7 @@
 ---
 title: 'Inferring plant functional diversity from space: the potentials of Sentinel-2'
 authors:
-  - Xuanlong Ma
+  - XuanlongMa
   - Miguel D. Mahecha
   - Mirco Migliavacca
   - Fons van der Plas

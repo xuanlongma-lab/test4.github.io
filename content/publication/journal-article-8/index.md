@@ -4,7 +4,7 @@ authors:
   - Jiaxin Jin
   - Tao Yan
   - Han Wang
-  - Xuanlong Ma
+  - XuanlongMa
   - Mingzhu He
   - Ying Wang
   - Weifeng Wang

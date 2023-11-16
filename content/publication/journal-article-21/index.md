@@ -44,7 +44,7 @@ authors:
   - Guido Kraemer
   - Beverly E. Law
   - Michael J. Liddell
-  - Xuanlong Ma
+  - XuanlongMa
   - Ivan Mammarella
   - David Martini
   - Craig Macfarlane

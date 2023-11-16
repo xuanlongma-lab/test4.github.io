@@ -6,7 +6,7 @@ authors:
   - Jamie Cleverly
   - Christopher C. Hall
   - Yanling Ding
-  - Xuanlong Ma
+  - XuanlongMa
   - Andy Leigh
   - Alfredo Huete 
 author_notes:

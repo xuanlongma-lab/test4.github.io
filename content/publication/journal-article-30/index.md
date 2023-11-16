@@ -1,7 +1,7 @@
 ---
 title: 'Spatiotemporal partitioning of savanna plant functional type productivity along NATT'
 authors:
-  - Xuanlong Ma
+  - XuanlongMa
   - Alfredo Huete
   - Caitlin E. Moore
   - James Cleverly

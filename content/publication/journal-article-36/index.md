@@ -2,7 +2,7 @@
 title: 'Grassland production in response to changes in biological metrics over Tibetan Plateau'
 authors:
   - Jiaxin Jin
-  - Xuanlong Ma
+  - XuanlongMa
   - Huai Chen
   - Han Wang
   - Xiaoming Kang

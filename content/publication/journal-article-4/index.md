@@ -9,7 +9,7 @@ authors:
   - Dedi Yang
   - Bruna Alberton
   - Matteo Detto
-  - Xuanlong Ma 
+  - XuanlongMa 
   - Yingyi Zhao
   - Henry C.H. Yeung
   - Hongsheng Zhang

@@ -5,7 +5,7 @@ authors:
   - Alfredo Huete
   - Jamie Cleverly
   - Xiaoliang Lu
-  - Xuanlong Ma
+  - XuanlongMa
   - Sicong Gao
   - Qiang Yu
 author_notes:

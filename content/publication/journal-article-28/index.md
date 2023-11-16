@@ -3,7 +3,7 @@ title: 'Nutrients and water availability constrain the seasonality of vegetation
 authors:
   - Yunpeng Luo
   - Tarek El-Madany
-  - Xuanlong Ma
+  - XuanlongMa
   - Richard Nair
   - Martin Jung
   - Ulrich Weber

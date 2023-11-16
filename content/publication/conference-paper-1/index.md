@@ -1,7 +1,7 @@
 ---
 title: 'Monitoring Savanna Vegetation Phenology Using Advanced Himawari Imager'
 authors:
-  - admin
+  - XuanlongMa
   - Ngoc Nguyen Tran
   - Song Leng
   - Qiaoyun Xie

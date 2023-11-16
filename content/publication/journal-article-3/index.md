@@ -4,7 +4,7 @@ authors:
   - Javier Pacheco- Labrador
   - Francesco de Bello
   - Mirco Migliavacca
-  - Xuanlong Ma
+  - XuanlongMa
   - Nuno Carvalhais
   - Christian Wirth
 author_notes:

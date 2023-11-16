@@ -27,7 +27,7 @@ authors:
   - Jürgen Knauer
   - Georgia R. Koerber
   - Michael Liddell
-  - Xuanlong Ma
+  - XuanlongMa
   - Craig Macfarlane
   - Ian D. McHugh
   - Belinda E. Medlyn

@@ -3,7 +3,7 @@ title: 'Drought, heat, and the carbon cycle: a review'
 authors:
   - Sebastian Sippel
   - Markus Reichstein
-  - Xuanlong Ma
+  - XuanlongMa
   - Miguel D. Mahecha
   - Holger Lange
   - Milan Flach

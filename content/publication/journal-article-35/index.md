@@ -1,7 +1,7 @@
 ---
 title: 'Interaction of Seasonal Sun-Angle and Savanna Phenology Observed and Modelled using MODIS'
 authors:
-  - Xuanlong Ma
+  - XuanlongMa
   - Alfredo Huete
   - Ngoc Nguyen Tran
 

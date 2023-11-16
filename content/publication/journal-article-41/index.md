@@ -2,7 +2,7 @@
 title: 'Evapotranspiration seasonality across the Amazon basin'
 authors:
   - Eduardo Eiji Maeda
-  - Xuanlong Ma
+  - XuanlongMa
   - Fabien Hubert Wagner
   - Hyungjun Kim
   - Taikan Oki

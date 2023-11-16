@@ -1,7 +1,7 @@
 ---
 title: 'Monitoring nature s calendar from space:emerging topics in land surface phenology and associated opportunities for science applications'
 authors:
-  - Xuanlong Ma
+  - XuanlongMa
   - Xiaolin Zhu
   - Qiaoyun Xie
   - Jiaxin Jin

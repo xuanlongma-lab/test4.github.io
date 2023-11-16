@@ -4,7 +4,7 @@ authors:
   - Mark Broich
   - Alfredo Huete
   - Matt Paget
-  - Xuanlong Ma
+  - XuanlongMa
   - Mirela Tulbure
   - Natalia Restrepo Coupe
   - Bradley Evans

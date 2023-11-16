@@ -1,7 +1,7 @@
 ---
 title: 'Spatial patterns and temporal dynamics in savanna vegetation phenology across the North Australian Tropical Transect'
 authors:
-  - Xuanlong Ma
+  - XuanlongMa
   - Alfredo Huete
   - Qiang Yu
   - Natalia Restrepo Coupe

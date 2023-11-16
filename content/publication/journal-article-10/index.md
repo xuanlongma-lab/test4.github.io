@@ -7,7 +7,7 @@ authors:
   - Xia Cui
   - Jikun Qian
   - Songbing Zou
-  - Xuanlong Ma
+  - XuanlongMa
 author_notes:
   - '1,†'
   - '1,†'

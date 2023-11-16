@@ -4,7 +4,7 @@ authors:
   - M. Broich
   - A. Huete
   - M. G. Tulbure
-  - X. Ma
+  - XuanlongMa
   - Q. Xin
   - M. Paget
   - N. Restrepo-Coupe

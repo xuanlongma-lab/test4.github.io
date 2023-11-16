@@ -4,7 +4,7 @@ authors:
   - Si Gao
   - Run Zhong
   - Kai Yan
-  - Xuanlong Ma
+  - XuanlongMa
   - Xinkun Chen
   - Jiabin Pu
   - Sicong Gao

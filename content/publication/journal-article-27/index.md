@@ -3,7 +3,7 @@ title: 'Attribution of climate and human activities to vegetation change in Chin
 authors:
   - Yu Shi
   - Ning Jin
-  - Xuanlong Ma
+  - XuanlongMa
   - Bingyan Wu
   - Qinsi He
   - Chao Yue

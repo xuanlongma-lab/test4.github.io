@@ -5,7 +5,7 @@ authors:
   - Alfredo Huete
   - Ngoc Nguyen Tran
   - Rakhesh Devadas
-  - Xuanlong Ma
+  - XuanlongMa
   - Derek Eamus
   - Qiang Yu
 

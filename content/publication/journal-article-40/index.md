@@ -4,7 +4,7 @@ authors:
   - Xunhe Zhang
   - Nai’ang Wang 
   - Zunyi Xie
-  - Xuanlong Ma
+  - XuanlongMa
   - Alfredo Huete
 
 author_notes:

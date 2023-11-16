@@ -3,7 +3,7 @@ title: 'Landsat and GRACE observations of arid wetland dynamics in a dryland riv
 authors:
   - Zunyi Xie
   - Alfredo Huete
-  - Xuanlong Ma
+  - XuanlongMa
   - Natalia Restrepo-Coupe
   - Rakhesh Devadas
   - Kenneth Clarke

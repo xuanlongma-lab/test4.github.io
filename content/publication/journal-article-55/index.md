@@ -1,7 +1,7 @@
 ---
 title: '基于GIS的气象要素空间插值方法研究'
 authors:
-  - 马轩龙
+  - XuanlongMa
   - 李春娥
   - 陈全功
 

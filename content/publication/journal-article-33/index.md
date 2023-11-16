@@ -3,7 +3,7 @@ title: 'Spatial pattern and seasonal dynamics of the photosynthesis activity acr
 authors:
   - Jianxiu Shen
   - Alfredo Huete
-  - Xuanlong Ma
+  - XuanlongMa
   - Ngoc Nguyen Tran
   - Joanna Joiner
   - Jason Beringer

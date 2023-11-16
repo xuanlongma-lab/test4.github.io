@@ -4,7 +4,7 @@ authors:
   - Wenlong Li
   - Chenli Liu
   - Wenliang Su
-  - Xuanlong Ma
+  - XuanlongMa
   - Huakun Zhou
   - Wenying Wang
   - Gaofeng Zhu

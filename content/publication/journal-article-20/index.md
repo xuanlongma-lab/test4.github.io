@@ -6,7 +6,7 @@ authors:
   - 张正阳
   - 谢巧云
   - 吴小丹
-  - 马轩龙
+  - XuanlongMa
 
 author_notes:
   - '1'

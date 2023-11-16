@@ -3,7 +3,7 @@ title: 'Challenging the link between functional and spectral diversity with radi
 authors:
   - Javier Pacheco-Labrador 
   - Mirco Migliavacca
-  - Xuanlong Ma
+  - XuanlongMa
   - Miguel D. Mahecha
   - Nuno Carvalhais
   - Ulrich Weber

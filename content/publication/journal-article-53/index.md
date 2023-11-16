@@ -2,7 +2,7 @@
 title: '基于“3S”技术与地面调查相结合的草原监测——以青海省黄南和海南地区为例'
 authors:
   - 谭忠厚
-  - 马轩龙
+  - XuanlongMa
   - 陈全功
 
 author_notes:

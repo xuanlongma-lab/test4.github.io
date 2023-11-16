@@ -4,7 +4,7 @@ authors:
   - Yunpeng Luo 
   - Tarek S. El-Madany
   - Gianluca Filippa 
-  - Xuanlong Ma
+  - XuanlongMa
   - Bernhard Ahrens
   - Arnaud Carrara
   - Rosario Gonzalez-Cascon 

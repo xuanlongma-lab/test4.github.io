@@ -5,7 +5,7 @@ authors:
   - Junzhi Liu
   - Yueqiang Yin
   - Sophia Walther
-  - Xuanlong Ma
+  - XuanlongMa
   - Zhaoying Zhang
   - Yuhan Chen
 author_notes:

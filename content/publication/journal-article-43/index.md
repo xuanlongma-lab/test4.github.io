@@ -5,7 +5,7 @@ authors:
   - Alfredo Huete
   - James Cleverly
   - Rachael H Nolan
-  - Xuanlong Ma
+  - XuanlongMa
   - Tonantzin Tarin
   - Nadia S Santini
 

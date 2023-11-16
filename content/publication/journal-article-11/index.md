@@ -10,7 +10,7 @@ authors:
   - Lei Lu
   - Ngoc Nguyen Tran
   - Xiaodan Wu
-  - Xuanlong Ma
+  - XuanlongMa
 author_notes:
   - 'a'
   - 'a'

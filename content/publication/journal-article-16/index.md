@@ -18,7 +18,7 @@ authors:
   - Gianluca Filippa
   - Marta Galvagno
   - Tiana Hammer
-  - Xuanlong Ma
+  - XuanlongMa
   - David Martini
   - Qian Zhang
   - Markus Reichstein

@@ -1,7 +1,7 @@
 ---
 title: 'Parameterization of an ecosystem light-use-efficiency model for predicting savanna GPP using MODIS EVI'
 authors:
-  - Xuanlong Ma
+  - XuanlongMa
   - Alfredo Huete
   - Qiang Yu
   - Natalia Restrepo-Coupe

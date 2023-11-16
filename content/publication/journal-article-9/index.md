@@ -6,7 +6,7 @@ authors:
   - Baorong Xu
   - Zhenyu Tu
   - Wenyong Zhang
-  - Xuanlong Ma
+  - XuanlongMa
   - Yu Liang
 author_notes:
   - '1'

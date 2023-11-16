@@ -4,7 +4,7 @@ authors:
   - 李文娟
   - 九次力
   - 谭忠厚
-  - 马轩龙
+  - XuanlongMa
   - 陈全功
 
 author_notes:

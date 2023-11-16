@@ -4,7 +4,7 @@ authors:
   - Weiye Huang
   - Wenlong Li
   - Jing Xu
-  - Xuanlong Ma
+  - XuanlongMa
   - Changhui Li
   - Chenli Liu
 author_notes:

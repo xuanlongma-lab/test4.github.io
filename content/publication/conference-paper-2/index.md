@@ -3,7 +3,7 @@ title: 'Evaluating the potential of DESIS to infer plant taxonomical and functio
 authors:
   - J. Pacheco-Labrador
   - U. Webe
-  - X. Ma
+  - XuanlongMa
   - M. D. Mahecha
   - N. Carvalhais
   - C. Wirth

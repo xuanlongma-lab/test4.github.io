@@ -6,7 +6,7 @@ authors:
   - Qunying Luo
   - Natalia Restrepo Coupe
   - Natascha Kljun
-  - Xuanlong Ma
+  - XuanlongMa
   - Cacilia Ewenz
   - Longhui Li
   - Qiang Yu

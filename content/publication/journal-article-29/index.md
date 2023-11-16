@@ -6,7 +6,7 @@ authors:
   - Ha Nguyen
   - Ian Grant
   - Tomoaki Miura
-  - Xuanlong Ma
+  - XuanlongMa
   - Alexei Lyapustin
   - Yujie Wang 
   - Elizabeth Ebert

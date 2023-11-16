@@ -5,7 +5,7 @@ authors:
   - Huiying Liu
   - Ni Huang
   - Jian Bi
-  - Xuanlong Ma
+  - XuanlongMa
   - Zhiyuan Ma
   - Zijian Shangguan
   - Hongfang Zhao

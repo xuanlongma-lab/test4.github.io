@@ -4,7 +4,7 @@ authors:
   - Yanping Cao
   - Zunyi Xie
   - William Woodgate
-  - Xuanlong Ma
+  - XuanlongMa
   - Jamie Cleverly
   - Yingjun Pang
   - Fen Qin

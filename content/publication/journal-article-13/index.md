@@ -4,7 +4,7 @@ authors:
   - Yantao Liu
   - Wei Zhou
   - Si Gao
-  - Xuanlong Ma
+  - XuanlongMa
   - Kai Yan
 author_notes:
   - '1'

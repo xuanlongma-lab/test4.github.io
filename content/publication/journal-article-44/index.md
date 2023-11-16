@@ -4,7 +4,7 @@ authors:
   - Zunyi Xie
   - Alfredo Huete
   - Natalia Restrepo-Coupe
-  - Xuanlong Ma
+  - XuanlongMa
   - Rakhesh Devadas
   - Graziella Caprarelli
 

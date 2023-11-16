@@ -2,7 +2,7 @@
 title: 'Impact of temporal precipitation variability on ecosystem productivity'
 authors:
   - Junzhi Liu
-  - Xuanlong Ma
+  - XuanlongMa
   - Zheng Duan
   - Jingchao Jiang
   - Markus Reichstein

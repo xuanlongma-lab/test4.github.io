@@ -2,7 +2,7 @@
 title: '青海省海东、海北地区草地资源产量与草畜平衡现状研究'
 authors:
   - 李文娟
-  - 马轩龙
+  - XuanlongMa
   - 陈全功
 
 author_notes:

@@ -1,7 +1,7 @@
 ---
 title: 'Sun-Angle Effects on Remote-Sensing Phenology Observed and Modelled Using Himawari-8'
 authors:
-  - Xuanlong Ma
+  - XuanlongMa
   - Alfredo Huete
   - Ngoc Nguyen Tran 
   - Jian Bi

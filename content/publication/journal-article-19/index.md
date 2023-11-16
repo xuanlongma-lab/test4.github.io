@@ -6,7 +6,7 @@ authors:
   - Caitlin E. Moore
   - Yanling Ding
   - Christopher C. Hall
-  - Xuanlong Ma
+  - XuanlongMa
   - Luke A. Brown
   - Cong Wang
   - Jason Beringer
