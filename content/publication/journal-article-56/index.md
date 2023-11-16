@@ -46,7 +46,7 @@ featured: false
 #links:
 # - name: link
 #   url: 'https://www.sciencedirect.com/science/article/pii/S1470160X21006658'
-url_pdf: 'https://pan.baidu.com/s/1BBYNBWZoORxCy_MWLeyz3A'
+url_pdf: 'https://pan.baidu.com/s/1E9-Mo8imW1fXoSBcgaXzXQ'
 url_code: ''
 url_dataset: ''
 url_poster: ''

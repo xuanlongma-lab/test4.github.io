@@ -42,7 +42,7 @@ featured: false
 #links:
 # - name: link
 #   url: 'https://www.sciencedirect.com/science/article/pii/S1470160X21006658'
-url_pdf: ''
+url_pdf: 'https://pan.baidu.com/s/1LFwVyLDKid7i13sINRPLQg'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,3 +73,4 @@ projects: []
 slides:
 ---
 
+PDF提取码：0218
