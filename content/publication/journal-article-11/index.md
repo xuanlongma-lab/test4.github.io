@@ -23,7 +23,7 @@ author_notes:
   - 'a'
   - 'a,*'
 date: '2022-07-21T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.jag.2022.102933'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-21T00:00:00Z'
@@ -54,7 +54,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1569843222001315
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

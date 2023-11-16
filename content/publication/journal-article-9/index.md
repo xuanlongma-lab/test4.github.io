@@ -17,7 +17,7 @@ author_notes:
   - ''
   - ''
 date: '2022-08-28T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.ecolind.2022.109396'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-08-28T00:00:00Z'
@@ -47,7 +47,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1470160X2200869X
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

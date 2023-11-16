@@ -25,7 +25,7 @@ author_notes:
   - '3'
 
 date: '2016-02-26T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1038/srep23113'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2016-02-26T00:00:00Z'

@@ -7,7 +7,7 @@ authors:
   - Qiaoyun Xie
   - Alfredo Huete
 date: '2021-07-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1109/IGARSS47720.2021.9554251'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-07-11T00:00:00Z'
@@ -33,10 +33,10 @@ tags:
   - vegetation phenology
 featured: true
 
-links:
-  - name: Article Link
-    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9554251
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9554251
+#links:
+#  - name: Article Link
+#    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9554251
+url_pdf: '' 
 url_code: ''
 url_dataset: ''
 url_poster: ''

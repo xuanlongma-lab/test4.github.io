@@ -15,7 +15,7 @@ author_notes:
   - '5'
   - '1,2'
 date: '2022-04-21T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.3390/rs14092086'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-04-21T00:00:00Z'
@@ -46,7 +46,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.mdpi.com/2072-4292/14/9/2086
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

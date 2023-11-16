@@ -102,7 +102,7 @@ author_notes:
   - '34'
   - '35,36'
 date: '2022-02-08T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1111/gcb.16141'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-02-08T00:00:00Z'
@@ -137,7 +137,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16141
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

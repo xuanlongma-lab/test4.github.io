@@ -35,7 +35,7 @@ author_notes:
   - 'o'
   - 'b,l,*'
 date: '2023-05-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.rse.2022.113429'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-05-01T00:00:00Z'
@@ -67,7 +67,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0034425722005351
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

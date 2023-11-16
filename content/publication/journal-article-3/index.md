@@ -15,7 +15,7 @@ author_notes:
   - '1'
   - '1,5,6'
 date: '2023-05-31T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1111/2041-210X.14163 '
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-05-31T00:00:00Z'
@@ -50,7 +50,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.14163
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

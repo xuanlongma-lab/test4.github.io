@@ -17,7 +17,7 @@ author_notes:
   - '6'
   - '7'
 date: '2023-05-29T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1029/2022JG007369'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-05-29T00:00:00Z'
@@ -45,7 +45,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022JG007369
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

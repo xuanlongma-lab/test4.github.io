@@ -53,7 +53,7 @@ author_notes:
   - 'h,i,o'
   - 'a,p,*'
 date: '2022-06-13T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.agrformet.2022.109060'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-13T00:00:00Z'
@@ -85,7 +85,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0168192322002490
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

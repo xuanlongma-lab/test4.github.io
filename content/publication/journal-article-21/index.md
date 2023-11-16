@@ -140,7 +140,7 @@ author_notes:
   - '1,2,54,*'
 
 date: '2021-08-20T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1038/s41586-021-03939-9'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-08-20T00:00:00Z'
@@ -167,7 +167,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.nature.com/articles/s41586-021-03939-9'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

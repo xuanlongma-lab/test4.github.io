@@ -43,9 +43,9 @@ tags:
   - FunDivEUROPE
 featured: true
 
-links:
-  - name: Article Link
-    url: https://pure.mpg.de/rest/items/item_3431856/component/file_3431857/content
+#links:
+#  - name: Article Link
+#    url: https://pure.mpg.de/rest/items/item_3431856/component/file_3431857/content
 url_pdf: https://pure.mpg.de/rest/items/item_3431856/component/file_3431857/content
 url_code: ''
 url_dataset: ''

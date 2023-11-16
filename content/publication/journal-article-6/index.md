@@ -19,7 +19,7 @@ author_notes:
   - 'a,b'
   - 'g'
 date: '2022-10-10T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.jhydrol.2022.128651'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-10-10T00:00:00Z'
@@ -51,7 +51,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0022169422012215
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

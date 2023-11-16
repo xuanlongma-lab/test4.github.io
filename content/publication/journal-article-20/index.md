@@ -17,7 +17,7 @@ author_notes:
   - '1,*'
 
 date: '2022-07-21T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.11834/jrs.20211601'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-21T00:00:00Z'
@@ -49,7 +49,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.ygxb.ac.cn/zh/article/doi/10.11834/jrs.20211601/'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -33,7 +33,7 @@ author_notes:
   - 'f,n,p'
   - 'a,f,q'
 date: '2022-07-12T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.rse.2022.113170'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-12T00:00:00Z'
@@ -65,7 +65,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S003442572200284X
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
