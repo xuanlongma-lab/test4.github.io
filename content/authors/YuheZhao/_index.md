@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kedi Liu
+title: Yuhe Zhao
 
 # Username (this should match the folder name)
 authors:
-  - KediLiu
+  - YuheZhao
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,14 +21,14 @@ organizations:
 #bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
 
 interests:
-  - volleyball
+  - hiking
   - badminton
 
 education:
   courses:
-    - course: BSc in Logistics Management
-      institution: Zhengzhou University
-      year: 2022
+    - course: BSc in 
+      institution: Taiyuan University of Technology
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -63,8 +63,8 @@ user_groups:
   - Grad Students
 ---
 
-**Research Topic:** Ecosystem classification
+**Research Topic:** Biodiversity; SDG 15.1.2; Vegetation phenology; unmanned aerial vehicle (UAV)
 
-**Hobby:** volleyball
+**Hobby:** hiking; badminton
 
-**Email:** kediliu22@lzu.edu.cn
+**Email:** zhaoyuhe21@lzu.edu.cn
