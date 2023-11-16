@@ -6,7 +6,7 @@ title: Xuanlong Ma
 superuser: true
 
 # Role/position
-role: Doctor of Philosophy Professor
+role: Doctor of Remote Sensing Professor
 
 # Organizations/Affiliations
 organizations:
@@ -67,6 +67,8 @@ user_groups:
   - Lab PI & Professor
 ---
 
-Xuanlong Ma is a ecologist and remote sensing scientist. His areas of expertise are biophysical remote sensing and terrestrial ecology. His main research interest is in integrating measurements from spaceborne sensors, field instruments, and flux towers to study and analyse vegetation phenological and functional responses to hydroclimatic impacts, with the overarching aim of assessing ecosystem resilience.
+**Research Topic:** 
 
-Skills and expertise: Ecology, Phenology, Savanna, R, Time Series Analysis, Remote Sensing, Climate Change, Satellite Image Processing, Ecosystem Functioning, Carbon Cycle, Statistics, Terrestrial Ecology, GDAL, Spatial Analysis, Global Change, Biogeography, Vegetation Mapping, Drought Stress, Vegetation
+**Hobby:** 
+
+**Email:** xlma@lzu.edu.cn
