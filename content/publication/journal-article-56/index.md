@@ -46,7 +46,7 @@ featured: false
 #links:
 # - name: link
 #   url: 'https://www.sciencedirect.com/science/article/pii/S1470160X21006658'
-url_pdf: 'file:///C:/Users/kedi/Desktop/1%20JGR%20Biogeosciences%20-%202023%20-%20Liu%20-%20Improved%20Vegetation%20Photosynthetic%20Phenology%20Monitoring%20in%20the%20Northern%20Ecosystems%20Using9082%201-15.html'
+url_pdf: '链接：https://pan.baidu.com/s/1BBYNBWZoORxCy_MWLeyz3A 提取码：0218'
 url_code: ''
 url_dataset: ''
 url_poster: ''
