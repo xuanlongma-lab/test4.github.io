@@ -1,5 +1,5 @@
 ---
-title: 'Spatial partitioning and temporal evolution of Australia's total water storage under extreme hydroclimatic impacts'
+title: 'Spatial partitioning and temporal evolution of Australia s total water storage under extreme hydroclimatic impacts'
 authors:
   - Zunyi Xie
   - Alfredo Huete
