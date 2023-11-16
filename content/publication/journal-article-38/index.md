@@ -39,11 +39,11 @@ abstract: '**Purpose of the Review** Weather and climate extremes substantially 
 summary: 
 
 tags:
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Drought
+  - Heat
+  - Carbon cycle
+  - Biogeochemistry
+  - Ecosystem extreme events
   
 featured: false
 
