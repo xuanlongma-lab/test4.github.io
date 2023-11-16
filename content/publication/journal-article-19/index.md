@@ -71,7 +71,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.sciencedirect.com/science/article/pii/S0924271622000211?__cf_chl_tk=E53fs3Ug1Z6DDi2HCy7q1Cm995VoW7ah1SD4EsyKPfE-1699953778-0-gaNycGzNFhA'
+url_source: ''
 url_video: ''
 
 # Featured image
