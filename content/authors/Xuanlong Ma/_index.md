@@ -1,24 +1,25 @@
 ---
 # Display name
-title: Xuanlong Ma
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Doctor of Philosophy Professor
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Lanzhou University
+  - name: Stanford University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Ecology
-  - Remote Sensing
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
@@ -64,9 +65,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lab PI & Professor
+  - Researchers
 ---
 
-Xuanlong Ma is a ecologist and remote sensing scientist. His areas of expertise are biophysical remote sensing and terrestrial ecology. His main research interest is in integrating measurements from spaceborne sensors, field instruments, and flux towers to study and analyse vegetation phenological and functional responses to hydroclimatic impacts, with the overarching aim of assessing ecosystem resilience.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Skills and expertise: Ecology, Phenology, Savanna, R, Time Series Analysis, Remote Sensing, Climate Change, Satellite Image Processing, Ecosystem Functioning, Carbon Cycle, Statistics, Terrestrial Ecology, GDAL, Spatial Analysis, Global Change, Biogeography, Vegetation Mapping, Drought Stress, Vegetation
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
