@@ -7,7 +7,7 @@ authors:
   - Zhenyu Tu
   - Wenyong Zhang
   - XuanlongMa
-  - Yu Liang
+  - BYuLiang
 author_notes:
   - '1'
   - '1'
