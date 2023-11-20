@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Huili Chen
+title: Chunyan Cao
 
 # Username (this should match the folder name)
 authors:
-  - HuiliChen
+  - DChunyanCao
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,10 +18,8 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
+bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
 
-#interests:
-#  - ping-pong
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,7 +46,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'chhuili2023@lzu.edu.cn'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -56,8 +54,8 @@ user_groups:
   - Grad Students
 ---
 
-**Research Topic:** Analysis of changes in irrigated farmland area and water consumption in arid inland rivers of Asia
+**Research Topic:** Estimation of global scale GPP based on eLUE model
 
-**Hobby:** Watch movies; Run; Read especially 
+**Hobby:** tourism; badminton
 
-**Email:** chhuili2023@lzu.edu.cn
+**Email:** caochy2023@lzu.edu.cn

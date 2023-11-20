@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yi Li
+title: Kedi Liu
 
 # Username (this should match the folder name)
 authors:
-  - YiLi
+  - CKediLiu
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,10 +18,17 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
+#bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
 
 #interests:
-#  - ping-pong
+#  - volleyball
+#  - badminton
+
+#education:
+#  courses:
+#    - course: BSc in Logistics Management
+#      institution: Zhengzhou University
+#      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yili21@lzu.edu.cn'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -56,8 +63,8 @@ user_groups:
   - Grad Students
 ---
 
-**Research Topic:** Analysis of global vegetation change in arid areas
+**Research Topic:** Ecosystem classification
 
-**Hobby:** ping-pong
+**Hobby:** volleyball
 
-**Email:** yili21@lzu.edu.cn
+**Email:** kediliu22@lzu.edu.cn

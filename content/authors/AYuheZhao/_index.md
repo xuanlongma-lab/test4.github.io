@@ -4,7 +4,7 @@ title: Yuhe Zhao
 
 # Username (this should match the folder name)
 authors:
-  - YuheZhao
+  - AYuheZhao
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,15 +20,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
 
-interests:
-  - hiking
-  - badminton
+#interests:
+#  - hiking
+#  - badminton
 
-education:
-  courses:
-    - course: BSc in 
-      institution: Taiyuan University of Technology
-      year: 2021
+#education:
+#  courses:
+#    - course: BSc in 
+#      institution: Taiyuan University of Technology
+#      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
