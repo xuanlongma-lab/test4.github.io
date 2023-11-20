@@ -2,7 +2,7 @@
 title: 'Trend in satellite-observed vegetation cover and its drivers in the Gannan Plateau, upper reachers of the Yellow River, from 2000 to 2020'
 authors:
   - BYuLiang
-  - Zhengyang Zhang
+  - AZhengyangZhang
   - Lei Lu
   - Xia Cui
   - Jikun Qian

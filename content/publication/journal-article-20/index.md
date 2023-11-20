@@ -3,7 +3,7 @@ title: '植被物候参数遥感提取与验证方法研究进展'
 authors:
   - 王敏钰
   - 罗毅 
-  - 张正阳
+  - AZhengyangZhang
   - 谢巧云
   - 吴小丹
   - XuanlongMa
