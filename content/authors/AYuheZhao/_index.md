@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
+bio: My research interests include Biodiversity, SDG 15.1.2, Vegetation phenology and unmanned aerial vehicle (UAV).
 
 #interests:
 #  - hiking

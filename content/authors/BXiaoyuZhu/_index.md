@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include Satellite Image Processing, mobile computing and programmable matter.
+bio: My research interests include Urban vegetation phenology in arid areas, Greenness changes and Water resources.
 
 #interests:
 #  - Spatial Analysis
