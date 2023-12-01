@@ -14,8 +14,8 @@ abstract: 'With the theme of “Innovative ecosystem Remote Sensing Interdiscipl
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-00-00T08:00:00Z'
-date_end: '2025-00-00T18:00:00Z'
+date: '2023-01-01T08:00:00Z'
+date_end: '2025-12-30T18:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
