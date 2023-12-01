@@ -1,7 +1,7 @@
 ---
-title: The First China Ecosystem Remote Sensing Conference 
+title: 地下水依赖型生态系统的遥感识别与生态需水量估算方法研究：以疏勒河流域为例 
 
-event: The First China Ecosystem Remote Sensing Conference
+event: 地下水依赖型生态系统的遥感识别与生态需水量估算方法研究：以疏勒河流域为例
 event_url: https://mp.weixin.qq.com/s/4VXiADKr1vxrKBpTEyWPiQ
 
 location: Guangdong
@@ -12,13 +12,13 @@ address:
   postcode: 
   country: China
 
-summary: Ecosystem remote sensing conference.
+summary: 1.	中国科学院陆地水循环及地表过程重点实验室，开放基金
 abstract: 'With the theme of “Innovative ecosystem Remote Sensing Interdisciplinary”, the conference focused on the academic discussion on the theory, method and application of ecosystem remote sensing. Nearly 600 experts and scholars from the two fields of ecology and remote sensing participated in the conference, realizing the collision of ecology and remote sensing thinking, promoting the deep integration of the two disciplines, and effectively promoting the innovation and discipline construction of ecosystem remote sensing.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-08-16T08:00:00Z'
-date_end: '2023-08-20T18:00:00Z'
+date: '2023-01-01T08:00:00Z'
+date_end: '2025-12-31T18:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
