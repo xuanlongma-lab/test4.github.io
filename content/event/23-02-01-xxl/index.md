@@ -1,6 +1,8 @@
 ---
 title: 地下水依赖型生态系统的遥感识别与生态需水量估算方法研究：以疏勒河流域为例
-date: 2023-2025
+date: '2023-01-01T08:00:00Z'
+date_end: '2025-12-30T18:00:00Z'
+all_day: true
 image:
   focal_point: 'top'
 ---
