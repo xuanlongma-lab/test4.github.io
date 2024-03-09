@@ -56,8 +56,8 @@ user_groups:
   - Grad Students
 ---
 
-**Research Topic:** 
+**Research Topic:** Analysis of global vegetation change in arid areas
 
-**Hobby:** reading，running
+**Hobby:** ping-pong
 
-**Email:** 320220947400@lzu.edu.cn
+**Email:** yili21@lzu.edu.cn
