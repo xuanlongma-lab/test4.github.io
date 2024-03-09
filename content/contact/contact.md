@@ -42,7 +42,7 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: xuanlongma_lab@163.com
     formspree:
       id:
     netlify:
