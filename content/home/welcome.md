@@ -11,7 +11,7 @@ title: |
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
   # Add custom styles
   css_style:
   css_class:
@@ -21,6 +21,13 @@ design:
 <br>
 <br>
 
+Welcome to the <br/>
+Ecological Remote Sensing Lab (MaLab @LZU) <br/>
+in Lanzhou University.
+
+<br>
+<br>
+<br>
 Welcome to the <br/>
 Ecological Remote Sensing Lab (MaLab @LZU) <br/>
 in Lanzhou University.
