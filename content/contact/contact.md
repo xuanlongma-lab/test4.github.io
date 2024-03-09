@@ -53,4 +53,4 @@ design:
   columns: '1'
 ---
 
-If you have any questions or requests, please enter the following information:
+If you have any questions or requests, please contact by email.
