@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Tingting Zhang
+title: Jingwen Zhao
 
 # Username (this should match the folder name)
 authors:
-  - HTingting Zhang
+  - HJingwen Zhao
 
 # Is this the primary user of the site?
 superuser: false
@@ -58,6 +58,6 @@ user_groups:
 
 **Research Topic:** 
 
-**Hobby:** reading，running
+**Hobby:** reading，listening to music
 
-**Email:** 320220947400@lzu.edu.cn
+**Email:** jwzhao21@lzu.edu.cn
