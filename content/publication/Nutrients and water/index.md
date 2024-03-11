@@ -25,29 +25,7 @@ authors:
   - Mirco Migliavacca
 
 
-author_notes:
-  - '1'
-  - '1'
-  - '1,2'
-  - '1'
-  - '1'
-  - '1'
-  - '3'
-  - '4,5'
-  - '6'
-  - '3'
-  - '7'
-  - '8'
-  - '9'
-  - '3'
-  - '1'
-  - '10'
-  - '11'
-  - '1,5'
-  - '12,13'
-  - '14'
-  - '2,4,5'
-  - '1'
+
 
 date: '2020-04-16T00:00:00Z'
 doi: 'https://doi.org/10.1111/gcb.15138'
@@ -63,7 +41,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Global Change Biology'
-publication_short: 'Global Change Biol'
+publication_short: 'Global Change Biology'
 
 abstract: Anthropogenic nitrogen (N) deposition and resulting differences in ecosystem N and phosphorus (P) ratios are expected to impact photosynthetic capacity, that is, maximum gross primary productivity (GPPmax). However, the interplay between N and P availability with other critical resources on seasonal dynamics of ecosystem productivity remains largely unknown. In a Mediterranean tree–grass ecosystem, we established three landscape-level (24 ha) nutrient addition treatments:N addition (NT), N and P addition (NPT), and a control site (CT). We analyzed the response of ecosystem to altered nutrient stoichiometry using eddy covariance fluxes measurements, satellite observations, and digital repeat photography. A set of metrics, including phenological transition dates (PTDs; timing of green-up and dry-down), slopes during green-up and dry-down period, and seasonal amplitude, were extracted from time series of GPPmax and used to represent the seasonality of vegetation activity. The seasonal amplitude of GPPmax was higher for NT and NPT than CT, which was attributed to changes in structure and physiology induced by fertilization. PTDs were mainly driven by rainfall and exhibited no significant differences among treatments during the green-up period. Yet, both fertilized sites senesced earlier during the dry-down period (17–19 days), which was more pronounced in the NT due to larger evapotranspiration and water usage. Fertilization also resulted in a faster increase in GPPmax during the green-up period and a sharper decline in GPPmax during the dry-down period, with less prominent decline response in NPT. Overall, we demonstrated seasonality of vegetation activity was altered after fertilization and the importance of nutrient–water interaction in such water-limited ecosystems. With the projected warming-drying trend, the positive effects of N fertilization induced by N deposition on GPPmax may be counteracted by an earlier and faster dry-down in particular in areas where the N:P ratio increases, with potential impact on the carbon cycle of water-limited ecosystems.
 # Summary. An optional shortened abstract.

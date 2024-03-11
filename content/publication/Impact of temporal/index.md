@@ -8,13 +8,6 @@ authors:
   - Markus Reichstein
   - Martin Jung
 
-author_notes:
-  - '1,2'
-  - '2,3'
-  - '4'
-  - '5'
-  - '2'
-  - '2'
 
 date: '2020-07-30T00:00:00Z'
 doi: 'https://doi.org/10.1002/wat2.1481'
@@ -30,7 +23,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Wiley Interdisciplinary Reviews: Water'
-publication_short: 'Wires Water'
+publication_short: 'Wiley Interdisciplinary Reviews: Water'
 
 abstract: Projected increases in temporal precipitation variability, including intra-annual and interannual variability, will likely have important impacts on terrestrial ecosystem productivity. The direction and magnitude of these impacts and how they vary across biomes, however, remain largely uncertain. Here, we review published literature that investigated the effect of different characteristics of temporal precipitation variability on vegetation productivity. We first reviewed commonly used methods, including manipulation experiments, process-based modeling, and data-driven analysis, and further discussed their strengths and limitations. Then, we summarized state-of-the-art research on this topic by categorizing the results based on the characteristics of temporal precipitation variability. Given the same amount of growing season precipitation, a more extreme precipitation regime, characterized as fewer but larger precipitation events, tends to have a negative impact on vegetation productivity of most ecosystems except xeric grasslands and wet-cold forests. Precipitation in the early growing season was found to be particularly important to vegetation productivity. Greater interannual precipitation variability tends to decrease vegetation productivity, but the reported patterns are complex, as both concave-up and concave-down precipitation-productivity relations were found. Despite the progress made so far, critical challenges and knowledge gaps remain, such as the global-scale impacts across different biomes, the role of biological adaption, and the contribution of individual precipitation events. Future research needs to combine manipulation experiments across a broad spectrum of ecosystem types and environmental gradients with model-data integration strategies to disentangle the interactions between abiotic and biotic factors controlling vegetation responses to precipitation variability.
 # Summary. An optional shortened abstract.

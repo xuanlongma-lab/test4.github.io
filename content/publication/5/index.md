@@ -5,10 +5,6 @@ authors:
   - XuanlongMa
   - 陈全功
 
-author_notes:
-  - ''
-  - ''
-  - '*'
 
 date: '2009-10-30T00:00:00Z'
 doi: ''

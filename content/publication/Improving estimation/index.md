@@ -11,16 +11,6 @@ authors:
   - Derek Eamus
   - Qiang Yu
 
-author_notes:
-  - 'a'
-  - 'b'
-  - 'c'
-  - 'd,e'
-  - 'f'
-  - 'a'
-  - 'a'
-  - 'd'
-  - 'a,d,*'
 
 date: '2020-09-22T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.agrformet.2020.108203'
@@ -36,7 +26,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Agricultural and Forest Meteorology'
-publication_short: 'Agr Forest Meteorol'
+publication_short: 'Agricultural and Forest Meteorology'
 
 abstract: Savannas, occupying a fifth of the global land surface, are characterized by the coexistence of trees and grasses. Accurate estimation of savanna evapotranspiration (ET) is vital for understanding the regional and global water balance and its feedback to climate. However, the overlapping phenology and different water-use patterns of trees and grasses constitute a major challenge for modeling efforts. To estimate savanna ET, we used a three-source ET model, partitioning ET among soil, trees, and grasses. To represent legacy effects of precipitation on ecosystem water use, the Normalized Ecosystem Drought Index (NEDI, i.e. a function of precipitation and potential evapotranspiration) was included to limit canopy conductances in the model and also in two other classic two-layer models (Shuttleworth-Wallace model and Penman-Monteith-Leuning model). The results of our model and the other models were tested and compared using tower-based eddy covariance flux data collected at six sites (including four savanna sites, one pasture site, and one grassland site) along a precipitation gradient in northern Australia, together with satellite-derived leaf area index, which was partitioned to represent the canopy dynamics of trees and grasses. Inclusion of NEDI significantly reduced seasonal biases in ET estimation results for all models compared with observations at savanna sites (fitted slopes were closer to unity by 0.08–0.10, R2 increased by 0.03–0.04, and RMSE decreased by 0.07–0.09 mm d−1). The three-source model provides insights into simulation of water fluxes over vegetated areas of complex composition. Our work makes a contribution to savanna research by determining a flexible indicator defining the seasonal water availability limitation on savanna ET. The inclusion of NEDI in ET models could guide future research on modeling ecosystem water and carbon fluxes in response to seasonal droughts.
 # Summary. An optional shortened abstract.

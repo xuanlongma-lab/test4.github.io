@@ -20,7 +20,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE International Geoscience and Remote Sensing Symposium
-publication_short: IGARSS
+publication_short: IEEE International Geoscience and Remote Sensing Symposium
 
 abstract: Vegetation phenology represents a key attribute of an ecosystem and plays an important role in regulating terrestrial carbon and water cycles. Here we used observations from the Advanced Himawari Imager (AHI) onboard the new generation Japanese geostationary (GEO) satellite Himawari-8. The objective was to assess the potentials of retrieving savanna phenology from H8/AHI vegetation index time series along a 1100 km ecological rainfall gradient, known as the North Australian Tropical Transect (NATT). Key phenology transition dates (start, peak, end, and length of season) were extracted from H8/AHI Enhanced Vegetation Index (EVI) time series and then compared to those extracted from MODIS EVI. Results showed that H8/AHI with its higher temporal resolution offers several advantages in monitoring savanna vegetation dynamics than MODIS. The denser EVI time series from H8/AHI not only avoids the artefacts caused by data interpolation but also enabled a more certain characterization of seasonal vegetation growth patterns than MODIS. The short lived, rainfall pulse-driven vegetation cycles in dry savannas were also better detected using H8/AHI.
 

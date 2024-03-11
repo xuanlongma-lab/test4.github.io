@@ -12,18 +12,6 @@ authors:
   - Qiang Yu
   - Alfredo Huete
 
-author_notes:
-  - '1,2'
-  - '1,2'
-  - '3'
-  - '3'
-  - '4'
-  - '3'
-  - '5'
-  - '1'
-  - '1'
-  - '3'
-
 date: '2016-02-26T00:00:00Z'
 doi: 'https://doi.org/10.1038/srep23113'
 
@@ -38,7 +26,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Scientific Reports'
-publication_short: 'Sci. Rep'
+publication_short: 'Scientific Reports'
 
 abstract: The global carbon cycle is highly sensitive to climate-driven fluctuations of precipitation, especially in the Southern Hemisphere. This was clearly manifested by a 20% increase of the global terrestrial C sink in 2011 during the strongest sustained La Niña since 1917. However, inconsistencies exist between El Niño/La Niña (ENSO) cycles and precipitation in the historical record; for example, significant ENSO–precipitation correlations were present in only 31% of the last 100 years, and often absent in wet years. To resolve these inconsistencies, we used an advanced temporal scaling method for identifying interactions amongst three key climate modes (El Niño, the Indian Ocean dipole, and the southern annular mode). When these climate modes synchronised (1999–2012), drought and extreme precipitation were observed across Australia. The interaction amongst these climate modes, more than the effect of any single mode, was associated with large fluctuations in precipitation and productivity. The long-term exposure of vegetation to this arid environment has favoured a resilient flora capable of large fluctuations in photosynthetic productivity and explains why Australia was a major contributor not only to the 2011 global C sink anomaly but also to global reductions in photosynthetic C uptake during the previous decade of drought.
 # Summary. An optional shortened abstract.

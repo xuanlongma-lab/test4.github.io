@@ -9,15 +9,6 @@ authors:
   - Ronny Richter
   - Miguel D. Mahecha 
 
-author_notes:
-  - '1,2,*'
-  - '2'
-  - '1,2,3'
-  - '4'
-  - '4'
-  - '1,3,5'
-  - '1,2,5'
-
 date: '2020-04-10T00:00:00Z'
 doi: 'https://doi.org/10.3390/rs12081248'
 
@@ -32,7 +23,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Remote Sensing'
-publication_short: 'RS'
+publication_short: 'Remote Sensing'
 
 abstract: Plant functional diversity (FD) is an important component of biodiversity. Evidence shows that FD strongly determines ecosystem functioning and stability and also regulates various ecosystem services that underpin human well-being. Given the importance of FD, it is critical to monitor its variations in an explicit manner across space and time, a highly demanding task that cannot be resolved solely by field data. Today, high hopes are placed on satellite-based observations to complement field plot data. The promise is that multiscale monitoring of plant FD, ecosystem functioning, and their services is now possible at global scales in near real-time. However, non-trivial scale challenges remain to be overcome before plant ecology can capitalize on the latest advances in Earth Observation (EO). Here, we articulate the existing scale challenges in linking field and satellite data and further elaborated in detail how to address these challenges via the latest innovations in optical and radar sensor technologies and image analysis algorithms. Addressing these challenges not only requires novel remote sensing theories and algorithms but also urges more effective communication between remote sensing scientists and field ecologists to foster mutual understanding of the existing challenges. Only through a collaborative approach can we achieve the global plant functional diversity monitoring goal.
 # Summary. An optional shortened abstract.

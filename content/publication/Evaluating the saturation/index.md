@@ -11,17 +11,7 @@ authors:
   - Jianbo Qi
   - Gaofei Yin
   - Ranga B. Myneni
-author_notes:
-  - 'a,b'
-  - 'b'
-  - 'a,b'
-  - 'c'
-  - 'b'
-  - 'd'
-  - 'e'
-  - 'a'
-  - 'f'
-  - 'd'
+
 date: '2023-06-04T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.rse.2023.113665'
 
@@ -36,7 +26,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Remote Sensing of Environment'
-publication_short: 'Remote Sens Environ'
+publication_short: 'Remote Sensing of Environment'
 
 abstract: Vegetation indices (VIs) have been used extensively for qualitative and quantitative remote sensing monitoring of vegetation vigor and growth dynamics. However, the saturation phenomenon of VIs (i.e., insignificant change at moderate to high vegetation densities) poses a known limitation to their ability to characterize surface vegetation over the dense canopy. Although the mechanisms underlying saturation are relatively straightforward and several VIs have been proposed to mitigate the saturation effect, the assessment of the saturation effect of VIs remains insufficient. Notably, no unified metric has been proposed to quantify the VI saturation phenomenon, limiting VI selection in practical applications. In this study, we proposed two indicators to describe the saturation phenomenon and utilized a well-validated three-dimensional (3D) canopy radiative transfer (RT) model large-scale remote sensing data and image simulation framework (LESS) to simulate the bidirectional reflectance factor (BRF) of six forests scenes and assessed the variations in VIs in relation to leaf area index (LAI) values over different backgrounds, sun-sensor geometries, and spatial distribution types. The saturation characteristics of 36 VIs were evaluated in combination with simulation results and satellite observations from multiple sensors. The ranking of VI saturation from simulated and satellite results revealed a good agreement. Our results indicated that the simple ratio vegetation index (SR) performed best with the highest saturation point and can well characterize the surface vegetation condition until LAI reaches 4. Besides, we found that the saturation effect of VIs was influenced by soil brightness, sun-sensor geometry, and canopy structure. SR, modified simple ratio (MSR) and normalized green red difference index (NGRDI) were the most susceptible to these disturbing factors, although they had higher resistance to saturation. Modified triangular vegetation index 1 (MTVI1), modified non-linear vegetation index (MNLI), triangular greenness index (TGI), and triangular vegetation index (TriVI) performed well overall, combining the ability to resist saturation and disturbance factors. Appropriate application of VIs can help better understand vegetation responses to climate change and accurately assess ecosystem status. Our results contribute to the understanding of the VI saturation effect and provide a combined model and satellite data experimental workflow in appropriate VI selection to accurately characterize vegetation.
 

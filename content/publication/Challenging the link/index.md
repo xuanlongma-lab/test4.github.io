@@ -16,22 +16,7 @@ authors:
   - Uta Heiden
   - Andreas Huth
   - Christian Wirth
-author_notes:
-  - 'a,*'
-  - 'a,1'
-  - 'b,c,d'
-  - 'e,f'
-  - 'a,g'
-  - 'a'
-  - 'h'
-  - 'i,j'
-  - 'i'
-  - 'k,l'
-  - 'm,n'
-  - 'e'
-  - 'o'
-  - 'f,n,p'
-  - 'a,f,q'
+
 date: '2022-07-12T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.rse.2022.113170'
 
@@ -46,7 +31,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Remote Sensing of Environment'
-publication_short: 'Remote Sens Environ'
+publication_short: 'Remote Sensing of Environment'
 
 abstract: In a context of accelerated human-induced biodiversity loss, remote sensing (RS) is emerging as a promising tool to map plant biodiversity from space. Proposed approaches often rely on the Spectral Variation Hypothesis (SVH), linking the heterogeneity of terrestrial vegetation to the variability of the spectroradiometric signals. Yet, due to observational limitations, the SVH has been insufficiently tested, remaining unclear which metrics, methods, and sensors could provide the most reliable estimates of plant biodiversity. Here we assessed the potential of RS to infer plant biodiversity using radiative transfer simulations and inversion. We focused specifically on “functional diversity,” which represents the spatial variability in plant functional traits. First, we simulated vegetation communities and evaluated the information content of different functional diversity metrics (FDMs) derived from their optical reflectance factors (R) or the corresponding vegetation “optical traits,” estimated via radiative transfer model inversion. Second, we assessed the effect of the spatial resolution, the spectral characteristics of the sensor, and signal noise on the relationships between FDMs derived from field and remote sensing datasets. Finally, we evaluated the plausibility of the simulations using Sentinel-2 (multispectral, 10 m pixel) and DESIS (hyperspectral, 30 m pixel) imagery acquired over sites of the Functional Significance of Forest Biodiversity in Europe (FunDivEUROPE) network. We demonstrate that functional diversity can be inferred both by reflectance and optical traits. However, not all the FDMs tested were suited for assessing plant functional diversity from RS. Rao's Q index, functional dispersion, and functional richness were the best-performing metrics. Furthermore, we demonstrated that spatial resolution is the most limiting RS feature. In agreement with simulations, Sentinel-2 imagery provided better estimates of plant diversity than DESIS, despite the coarser spectral resolution. However, Sentinel-2 offered inaccurate results at DESIS spatial resolution. Overall, our results identify the strengths and weaknesses of optical RS to monitor plant functional diversity. Future missions and biodiversity products should consider and benefit from the identified potentials and limitations of the SVH.
 # Summary. An optional shortened abstract.

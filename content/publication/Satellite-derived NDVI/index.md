@@ -16,21 +16,6 @@ authors:
   - Jin-Sheng He
 
 
-author_notes:
-  - '1,9'
-  - '2'
-  - '3'
-  - '4'
-  - '4'
-  - '5'
-  - '5'
-  - '6'
-  - '1'
-  - '1'
-  - '7'
-  - '8'
-  - '1,5'
-
 date: '2021-07-23T00:00:00Z'
 doi: ' https://doi.org/10.1002/ecy.3518'
 
@@ -45,7 +30,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Ecology'
-publication_short: 'Ecol'
+publication_short: 'Ecology'
 
 abstract: Satellite-derived normalized difference vegetation index (NDVI) data are increasingly relied on to reveal the growth responses of vegetation to climate change, yet the vegetation growth tracking accuracy of these data remains unclear due to a lack of long-term field data. Here, we adopted a unique field-measured seasonal aboveground biomass dataset from 1982–2014 to assess the potential of using satellite-derived NDVI data to match field data in regard to the interannual variability in seasonal vegetation growth in a Tibetan alpine grassland. We revealed that Global Inventory Monitoring and Modeling System (GIMMS) NDVI data captured the advancement of field-measured vegetation growth throughout the entire study period but not from 2000–2014, while MODIS NDVI data still observed this advancing trend after 2000 to a limited extent. However, satellite-derived NDVI data consistently underestimated the advancement degree of field-measured vegetation growth, regardless of whether GIMMS or MODIS NDVI data were considered. We tentatively attribute this underestimation to an increased ratio of grass biomass to forb biomass, which could delay the advancement of NDVI development but not affect that of field-measured biomass development. Our results suggest that satellite-derived NDVI data may miss critical responses of vegetation growth to global climate change, potentially due to long-term shifts in plant community composition.
 # Summary. An optional shortened abstract.

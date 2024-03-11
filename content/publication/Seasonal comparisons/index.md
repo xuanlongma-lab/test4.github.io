@@ -11,16 +11,6 @@ authors:
   - Yujie Wang 
   - Elizabeth Ebert
 
-author_notes:
-  - '1,2,*'
-  - '1'
-  - '1'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
-  - '6,7'
-  - '3'
 
 date: '2020-08-01T00:00:00Z'
 doi: 'https://doi.org/10.3390/rs12152494'
@@ -36,7 +26,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Remote Sensing'
-publication_short: 'RS'
+publication_short: 'Remote Sensing'
 
 abstract: The Advanced Himawari Imager (AHI) on board the Himawari-8 geostationary (GEO) satellite offers comparable spectral and spatial resolutions as low earth orbiting (LEO) sensors such as the Moderate Resolution Imaging Spectroradiometer (MODIS) and Visible Infrared Imaging Radiometer Suite (VIIRS) sensors, but with hypertemporal image acquisition capability. This raises the possibility of improved monitoring of highly dynamic ecosystems, such as grasslands, including fine-scale phenology retrievals from vegetation index (VI) time series. However, identifying and understanding how GEO VI temporal profiles would be different from traditional LEO VIs need to be evaluated, especially with the new generation of geostationary satellites, with unfamiliar observation geometries not experienced with MODIS, VIIRS, or Advanced Very High Resolution Radiometer (AVHRR) VI time series data. The objectives of this study were to investigate the variations in AHI reflectances and normalized difference vegetation index (NDVI), enhanced vegetation index (EVI), and two-band EVI (EVI2) in relation to diurnal phase angle variations, and to compare AHI VI seasonal datasets with MODIS VIs (standard and sun and view angle-adjusted VIs) over a functional range of dry grassland sites in eastern Australia. Strong NDVI diurnal variations and negative NDVI hotspot effects were found due to differential red and NIR band sensitivities to diurnal phase angle changes. In contrast, EVI and EVI2 were nearly insensitive to diurnal phase angle variations and displayed nearly flat diurnal profiles without noticeable hotspot influences. At seasonal time scales, AHI NDVI values were consistently lower than MODIS NDVI values, while AHI EVI and EVI2 values were significantly higher than MODIS EVI and EVI2 values, respectively. We attributed the cross-sensor differences in VI patterns to the year-round smaller phase angles and backscatter observations from AHI, in which the sunlit canopies induced a positive EVI/ EVI2 response and negative NDVI response. BRDF adjustments of MODIS VIs to solar noon and to the oblique view zenith angle of AHI resulted in strong cross-sensor convergence of VI values (R2 > 0.94, mean absolute difference <0.02). These results highlight the importance of accounting for cross-sensor observation geometries for generating compatible AHI and MODIS annual VI time series. The strong agreement found in this study shows promise in cross-sensor applications and suggests that a denser time series can be formed through combined GEO and LEO measurement synergies.
 # Summary. An optional shortened abstract.

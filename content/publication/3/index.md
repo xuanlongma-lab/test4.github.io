@@ -5,10 +5,6 @@ authors:
   - 李文娟
   - 陈全功
 
-author_notes:
-  - ''
-  - ''
-  - ''
 
 date: '2009-05-30T00:00:00Z'
 doi: ''

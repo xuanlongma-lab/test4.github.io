@@ -8,13 +8,7 @@ authors:
   - Xingwen Lin
   - Cuicui Mu
 
-author_notes:
-  - '1'
-  - '1,*'
-  - '1'
-  - '1'
-  - '2'
-  - '1,3,4'
+
 
 date: '2021-07-16T00:00:00Z'
 doi: ' https://doi.org/10.3390/rs13152875'
@@ -30,7 +24,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Remote Sensing'
-publication_short: 'RS'
+publication_short: 'Remote Sensing'
 
 abstract: Quantifying the spatial, seasonal (phenological), and inter-annual variations of gross primary productivity (GPP) in the Arctic is critical for comprehending the terrestrial carbon cycle and its feedback to climate warming in this region. Here, we evaluated the accuracy of the MOD17A2H GPP product using the FLUXNET 2015 dataset in the Arctic, then explored the spatial patterns, seasonal variations, and interannual trends of GPP, and investigated the dependence of the spatiotemporal variations in GPP on land cover types, latitude, and elevation from 2001 to 2019. The results showed that MOD17A2H was consistent with in situ measurements (R = 0.8, RMSE = 1.26 g C m−2 d−1). The functional phenology was also captured by the MOD17A2H product (R = 0.62, RMSE = 9 days) in the Arctic. The spatial variation of the seasonal magnitude of GPP and its interannual trends is partly related to land cover types, peaking in forests and lowest in grasslands. The interannual trend of GPP decreased as the latitude and elevation increased, except for the latitude between 62°~66° N and elevation below 700 m. Our study not only revealed the variation of GPP in the Arctic but also helped to understand the carbon cycle over this region.
 # Summary. An optional shortened abstract.

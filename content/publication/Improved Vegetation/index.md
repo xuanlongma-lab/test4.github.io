@@ -8,14 +8,7 @@ authors:
   - XuanlongMa
   - Zhaoying Zhang
   - Yuhan Chen
-author_notes:
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
-  - '7'
+
 date: '2023-05-29T00:00:00Z'
 doi: 'https://doi.org/10.1029/2022JG007369'
 
@@ -30,7 +23,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Journal of Geophysical Research: Biogeosciences'
-publication_short: 'JGR: Biogeosciences'
+publication_short: 'Journal of Geophysical Research: Biogeosciences'
 
 abstract: Solar-Induced chlorophyll Fluorescence (SIF) from the TROPOspheric Monitoring Instrument (TROPOMI) with substantially improved spatiotemporal resolutions provides a new potential to improve satellite-based phenology monitoring. The performance of TROPOMI SIF for tracking vegetation photosynthetic phenology, and how it compares to conventional vegetation indices (VIs)-based approaches, however, have not been adequately assessed. Total canopy SIF, as a better proxy of Gross Primary Productivity (GPP) than original directional SIF, is a new SIF to estimate phenology while its performance has not been investigated. This study assesses the capability of TROPOMI SIF before and after canopy correction for phenology monitoring and improves our understanding of these questions. Benchmarked by tower-based GPP, TROPOMI SIF generally performed better than VIs, especially for capturing the End Of Season (EOS) of vegetation photosynthetic activity at deciduous broadleaf forest (DBF), evergreen forest (ENF), and croplands (CRO) sites, but not for Start Of Season (SOS). This suggested that the advantage of SIF over VIs depended on phenological metrics. The total canopy SIF emission obtained through canopy correction generally performed better than the original SIF retrievals, especially in estimating the EOS of forest sites (DBF, MF, ENF), but soil correction did not further improve the accuracy of phenological monitoring. When comparing SIF- and VI-based phenological metrics over northern terrestrial ecosystems, SIF showed earlier senescence date widely, while the differences in onset date were region dependent. These results indicate the necessity of canopy correction to convert directional SIF to canopy total SIF when using satellite SIF products to estimate phenological metrics.
 

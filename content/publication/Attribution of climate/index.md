@@ -9,15 +9,6 @@ authors:
   - Chao Yue
   - Qiang Yu
 
-author_notes:
-  - 'a,b'
-  - 'c,*'
-  - 'd'
-  - 'a'
-  - 'e'
-  - 'b'
-  - 'b,e,f,**'
-
 date: '2020-08-10T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.agrformet.2020.108146'
 
@@ -32,7 +23,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Agricultural and Forest Meteorology'
-publication_short: 'Agr Forest Meteorol'
+publication_short: 'Agricultural and Forest Meteorology'
 
 abstract: 
 # Summary. An optional shortened abstract.

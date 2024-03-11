@@ -8,14 +8,7 @@ authors:
   - Jikun Qian
   - Songbing Zou
   - XuanlongMa
-author_notes:
-  - '1,†'
-  - '1,†'
-  - '1'
-  - '1,2'
-  - '1'
-  - '1,2'
-  - '1,3,4,*'
+
 date: '2022-08-06T00:00:00Z'
 doi: 'https://doi.org/10.3390/rs14163849'
 
@@ -30,7 +23,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Remote Sensing'
-publication_short: 'RS'
+publication_short: 'Remote Sensing'
 
 abstract: The Yellow River basin (YRB) has played an important role in the forming of Chinese civilization. Located in the upper reaches of the YRB and the southeastern edge of the Qinghai–Tibet Plateau (QTP), the Gannan Plateau (GP), which consists of mainly alpine and mountain ecosystems, is one of the most important water conservation areas for the Yellow River and recharges 6.59 billion cubic meters of water to the Yellow River each year, accounting for 11.4% of the total runoff of the Yellow River. In the past 30 years, due to climate change and intense human activities, the GP is facing increasing challenges in maintaining its ecosystem integrity and security. Vegetation is a central component of the terrestrial ecosystem and is also key to maintaining ecosystem functioning and services. To form sound ecological restoration projects for the GP and the upper reaches of the YRB in general, this study assesses the trend in FVC (Fractional Vegetation Cover) and its drivers across the GP by integrating high-resolution satellite remote sensing images and meteorological data from 2000 to 2020. Results showed that the mean value of FVC for the entire GP between 2000 and 2020 was 89.26%. Aridity was found to be the main factor that determined the spatial distribution of FVC, while ecosystem type exhibited the secondary effect with forests having the highest FVC within each aridity class. From 2000 to 2020, the FVC in 84.11% of the study area did not exhibit significant change, though 10.32% of the study area still experienced a significant increase in FVC. A multi-factor analysis revealed that precipitation surpassed temperature as the main driver for the FVC trend in semi-arid and semi-humid areas, while this pattern was reversed in humid areas. A further residual analysis indicated that human activities only played a minor role in determining the FVC trend in most naturally vegetated areas of the study area, except for semi-arid crops where a significant positive role of human influences on the FVC trend was observed. The findings highlight the fact that aridity and vegetation types interact to explain the relative sensitivity of alpine and mountain ecosystems to climate trends and human influences. Results from this study provide an observational basis for better understanding and pattern prediction of ecosystem functioning and services in the GP under future climate change, which is key to the success of the national strategy that aims to preserve ecosystem integrity and promote high-quality development over the entire YRB.
 # Summary. An optional shortened abstract.

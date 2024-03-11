@@ -9,15 +9,7 @@ authors:
   - Yingjun Pang
   - Fen Qin
   - Alfredo Huete 
-author_notes:
-  - 'a,b'
-  - 'a,b,c'
-  - 'c'
-  - 'd'
-  - 'e'
-  - 'f'
-  - 'a,b'
-  - 'g'
+
 date: '2022-10-10T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.jhydrol.2022.128651'
 
@@ -32,7 +24,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Journal of Hydrology'
-publication_short: 'J Hydrol'
+publication_short: 'Journal of Hydrology'
 
 abstract: China has implemented some of the world's most ambitious ecological restoration (ER) programs over the past two decades. These large-scale multi-billion-dollar projects have achieved widespread greening across the country. However, the impacts of different ER-driven land cover modifications on total water resources remain largely unknown, particularly over areas characterized by complex environments of coupled human and natural systems. Here we quantified ecohydrological impacts of multiple ER programs applied over various parts of China’s Yellow River Basin (YRB), with their lumped effects being partitioned into individual ones. ER-related drivers were disentangled, leading in individual attribution of inter-annual climatic variability and agricultural activity with cross-sensor satellite observations and statistical modelling. Our results showed an ecohydrological decoupling of water storage and vegetation greenness attributed to ER programs. Increases in natural land cover types (e.g. forest and grassland) were found at the expense of human intensive land use, such as farmland, with the combined changes resulting in a concurrent dramatic water storage loss of 3.70 billion tons/year from 2002 to 2021. ER was the dominant driver of water loss (>66 %) among all factors considered, commensurate with areal land-cover change and ER program cost. The entire basin was divided into two regions with opposite water trends by the ER activities with different restoration strategies. This study’s framework is applicable to substantial part of the globe like YRB and is encouraged to be applied for more wholistic ER impact evaluations.
 # Summary. An optional shortened abstract.

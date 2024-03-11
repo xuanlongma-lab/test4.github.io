@@ -20,25 +20,7 @@ authors:
   - Christine Römermann
   - Mirco Migliavacca 
 
-author_notes:
-  - '1,*'
-  - '1'
-  - '2'
-  - '1'
-  - '1'
-  - '3'
-  - '4'
-  - '2'
-  - '2'
-  - '1'
-  - '1,5'
-  - '5'
-  - '6'
-  - '1'
-  - '1,7'
-  - '8,9,10'
-  - '11,12'
-  - '1'
+
 
 date: '2018-08-13T00:00:00Z'
 doi: 'https://doi.org/10.3390/rs10081293'
@@ -54,7 +36,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Remote Sensing'
-publication_short: 'RS'
+publication_short: 'Remote Sensing'
 
 abstract: Tree–grass ecosystems are widely distributed. However, their phenology has not yet been fully characterized. The technique of repeated digital photographs for plant phenology monitoring (hereafter referred as PhenoCam) provide opportunities for long-term monitoring of plant phenology, and extracting phenological transition dates (PTDs, e.g., start of the growing season). Here, we aim to evaluate the utility of near-infrared-enabled PhenoCam for monitoring the phenology of structure (i.e., greenness) and physiology (i.e., gross primary productivity—GPP) at four tree–grass Mediterranean sites. We computed four vegetation indexes (VIs) from PhenoCams:(1) green chromatic coordinates (GCC), (2) normalized difference vegetation index (CamNDVI), (3) near-infrared reflectance of vegetation index (CamNIRv), and (4) ratio vegetation index (CamRVI). GPP is derived from eddy covariance flux tower measurement. Then, we extracted PTDs and their uncertainty from different VIs and GPP. The consistency between structural (VIs) and physiological (GPP) phenology was then evaluated. CamNIRv is best at representing the PTDs of GPP during the Green-up period, while CamNDVI is best during the Dry-down period. Moreover, CamNIRv outperforms the other VIs in tracking growing season length of GPP. In summary, the results show it is promising to track structural and physiology phenology of seasonally dry Mediterranean ecosystem using near-infrared-enabled PhenoCam. We suggest using multiple VIs to better represent the variation of GPP.
 # Summary. An optional shortened abstract.

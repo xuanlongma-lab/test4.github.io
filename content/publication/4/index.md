@@ -7,13 +7,6 @@ authors:
   - XuanlongMa
   - 陈全功
 
-author_notes:
-  - '1'
-  - '2'
-  - '1'
-  - '3'
-  - '1'
-
 date: '2012-02-02T00:00:00Z'
 doi: ''
 
