@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on High-resolution GPP estimation based on the eLUE model.
+bio: 
 
 # Social/Academic Networking
 social:
@@ -34,6 +34,8 @@ user_groups:
   - Grad Students
 ---
 
-**Research Topic:** High-resolution GPP estimation based on the eLUE model
+**Research Topic:** 
 
-**Email:** zhangyiran_n@163.com****
+**Hobby:** swimming, running
+
+**Email:** zhangyiran_n@163.com
