@@ -20,16 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on High-resolution GPP estimation based on the eLUE model.
 
-interests:
-  - painting
-  - badminton
-
-education:
-  courses:
-    - course: BSc in 
-      institution: Lanzhou University
-      year: 2024
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
