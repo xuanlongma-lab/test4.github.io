@@ -6,8 +6,8 @@ title: Yiran Zhang
 authors:
   - YiranZhang
 
-# Avatar
-avatar: zhangyiran.jpg
+# Avatar - 使用正确的路径
+avatar: /images/zhangyiran.jpg
 
 # Is this the primary user of the site?
 superuser: false
