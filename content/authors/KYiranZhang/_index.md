@@ -6,7 +6,7 @@ title: Yiran Zhang
 authors:
   - YiranZhang
 # Avatar (添加这行)
-avatar: content/authors/KYiranZhang/zhangyiran.jpg
+avatar: zhangyiran.jpg
 # Is this the primary user of the site?
 superuser: false
 
