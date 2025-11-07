@@ -20,15 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on High-resolution GPP estimation based on the eLUE model.
 
-interests:
-  - swimming
-  - running
-
-education:
-  courses:
-    - course: BSc in 
-      institution: Lanzhou University
-      year: 2025
 
 # Social/Academic Networking
 social:
