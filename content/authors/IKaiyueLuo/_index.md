@@ -36,4 +36,6 @@ user_groups:
 
 **Research Topic:** High-resolution GPP estimation based on the eLUE model
 
+**Hobby:** painting, badminton
+
 **Email:** luoky2024@lzu.edu.cn
